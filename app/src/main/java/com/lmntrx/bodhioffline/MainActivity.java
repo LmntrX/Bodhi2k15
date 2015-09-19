@@ -32,6 +32,9 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        Intent intent=new Intent(this,splashscreen.class);
+        startActivity(intent);
+
         mWebview  = new WebView(this);
 
         CON=this;
@@ -49,7 +52,6 @@ public class MainActivity extends Activity {
         });
         thread.run();
 
-        mWebview.getSettings().setJavaScriptEnabled(true); // enable javascript
         WebSettings webSettings = mWebview.getSettings();
         webSettings.setJavaScriptEnabled(true);
         webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
@@ -57,9 +59,6 @@ public class MainActivity extends Activity {
             webSettings.setAllowFileAccessFromFileURLs(true);
             webSettings.setAllowUniversalAccessFromFileURLs(true);
         }
-
-        Intent intent=new Intent(this,splashscreen.class);
-        startActivity(intent);
 
         final Activity activity = this;
 
