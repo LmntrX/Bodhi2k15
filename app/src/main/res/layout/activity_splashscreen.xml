@@ -3,5 +3,12 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="@drawable/ordinarysplash">
+    <ProgressBar
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

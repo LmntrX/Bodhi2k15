@@ -2,6 +2,7 @@ package com.lmntrx.bodhioffline;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -57,6 +58,9 @@ public class MainActivity extends Activity {
             webSettings.setAllowUniversalAccessFromFileURLs(true);
         }
 
+        Intent intent=new Intent(this,splashscreen.class);
+        startActivity(intent);
+
         final Activity activity = this;
 
         mWebview.setWebViewClient(new WebViewClient() {
@@ -67,11 +71,11 @@ public class MainActivity extends Activity {
 
         if (isConnected){
             mWebview.loadUrl(mURL);
-            Toast.makeText(CON,"App Powered By LmntrX\n    App in Online Mode",Toast.LENGTH_LONG).show();
+            //Toast.makeText(CON,"App Powered By LmntrX\n    App in Online Mode",Toast.LENGTH_LONG).show();
         }
         else{
             mWebview.loadUrl(fileURL);
-            Toast.makeText(CON,"App Powered By LmntrX\n    App in Offline Mode",Toast.LENGTH_LONG).show();
+            //Toast.makeText(CON,"App Powered By LmntrX\n    App in Offline Mode",Toast.LENGTH_LONG).show();
         }
 
         setContentView(mWebview);
