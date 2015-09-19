@@ -2,6 +2,7 @@ package com.lmntrx.bodhioffline;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -11,6 +12,10 @@ import android.widget.RelativeLayout;
 
 import com.lmntrx.bodhioffline.R;
 
+import java.util.Timer;
+import java.util.TimerTask;
+import java.util.logging.Handler;
+
 public class splashscreen extends Activity {
 
     private RelativeLayout splashLayout;
@@ -18,6 +23,27 @@ public class splashscreen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splashscreen);
+
+
+        //----------------------------------------------------------------------------------------
+        // Timered Splash Screen
+
+        new Timer().schedule(new TimerTask() {
+            public void run() {
+                splashscreen.this.runOnUiThread(new Runnable() {
+                    public void run() {
+                        startActivity(new Intent(splashscreen.this, MainActivity.class));
+                    }
+                });
+            }
+        }, 500);  // Change this value to change timer
+
+
+        //----------------------------------------------------------------------------------------
+
+        //----------------------------------------------------------------------------------------
+
+       /*   FOR ONCLICK SPLASH SCREEN
 
         splashLayout=(RelativeLayout)findViewById(R.id.splash);
 
@@ -30,11 +56,12 @@ public class splashscreen extends Activity {
                 startActivity(intent);
                 finish();
 
-               /* Intent intent = new Intent(getActivity(), GameMenu.class);
-                startActivity(intent); */
-                // here you can write code to proceed next step.
-            }
+        }
+
         });
+
+        */
+        //----------------------------------------------------------------------------------------
 
     }
 
