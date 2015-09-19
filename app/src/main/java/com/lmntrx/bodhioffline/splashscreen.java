@@ -36,7 +36,7 @@ public class splashscreen extends Activity {
                     }
                 });
             }
-        }, 500);  // Change this value to change timer
+        }, 1000);  // Change this value to change timer
 
 
         //----------------------------------------------------------------------------------------

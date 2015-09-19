@@ -2,6 +2,6 @@
     android:id="@+id/splash"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/bodhi_lmntrx">
+    android:background="@drawable/ordinarysplash">
 
 </RelativeLayout>
