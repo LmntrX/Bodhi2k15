@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+    <title>
+      Bodhi Events
+    </title><!-- css -->
+    <link href="css/base.min.css" rel="stylesheet">
+    <!-- css for this project -->
+    <link href="css/project.min.css" rel="stylesheet"><!-- favicon -->
+    <!-- ... -->
+    <!-- ie -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  </head>
+  <body class="avoid-fout page-brand">
+    <div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+      <div class="progress-circular progress-circular-center">
+        <div class="progress-circular-wrapper">
+          <div class="progress-circular-inner">
+            <div class="progress-circular-left">
+              <div class="progress-circular-spinner"></div>
+            </div>
+            <div class="progress-circular-gap"></div>
+            <div class="progress-circular-right">
+              <div class="progress-circular-spinner"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <header class="header header-transparent header-waterfall">
+      <ul class="nav nav-list pull-left">
+        <li>
+          <a href="index"><span class="fa fa-arrow-left fa-1x"></span></a>
+        </li>
+      </ul><a class="header-logo margin-left-no" href="index">Bodhi2k15</a>
+      <div class="header-affix pull-left" data-offset-top="108" data-spy=
+      "affix">
+        <span class="header-text margin-left-no"><i class=
+        "icon margin-right">chevron_right</i>EEE. Dept Events</span>
+      </div>
+    </header>
+    
+    <div class="content">
+      <div class="content-heading">
+        <div class="container">
+          <h1 class="heading">
+            EEE. Dept Events
+          </h1>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    CANDELA (PAPER PRESENTATION)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      CANDELA (PAPER PRESENTATION)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "eee#collapsible-region-1"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-1">
+                      <div>
+                        
+                        <p id="desc">
+                          All you need is to prepare to present some good
+                          qualitative papers and ideas in electrical
+                          engineering and its fields. The contestants are
+                          required to present the shortlisted papers to a panel
+                          of judges.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. The paper submitted will have to be presented
+                        during the event.<br>
+                        The selected teams have to bring a soft copy of paper
+                        and 3 hard copies of paper.<br>
+                        Hard copies of the same are to be submitted before
+                        presentation.<br>
+                        2. Total time allotted for presentation is 15 minutes
+                        of which, 10 minutes is for presentation 5 minutes
+                        discussion<br>
+                        3.The teams must prepare a presentation in MS
+                        PowerPoint format ONLY.<br>
+                        4. The coordinators reserve the right of rejecting any
+                        paper following deviation of the paper from the format
+                        specified.<br>
+                        5. The coordinators reserve the right to change/update
+                        the rules of the event at any point of time and will do
+                        their best to inform the participants of the same.<br>
+                        6. The participants should come with college ID
+                        Card.<br>
+                        6. Participation certificates will be provided.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>** PRIZES WORTH 9K
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>The event will be spread over two phases.<br>
+                        Phase I:<br>
+                        An abstract giving complete details of the paper /
+                        ideas in not more than 500 words is to be sent to:<br>
+                        eee.bodhi2015@vjcet.org<br>
+                        Last Date For Abstract Submission:21-09-2015<br>
+                        Phase II:<br>
+                        Based on the evaluation of the abstract, few papers
+                        will be selected for presenting at Bodhi 2k15.The teams
+                        that are shortlisted will be notified via email.<br>
+                        Team Formation:<br>
+                        1.A team can have a maximum of 2 members<br>
+                        2.A participant cannot be part of more than one
+                        team<br>
+                        3.It is not necessary that the participants forming a
+                        team should be from the same college<br>
+                        4.There is no restriction in the number of teams from
+                        the same college<br>
+                        <br>
+                        Date: 22-09-2015<br>
+                        Venue: C LAB EEE<br>
+                        Registration Fee Offline: Rs.50/-<br>
+                        *Minimum 4 Candidates are required.
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>For further details contact<br>
+                        KURIAKOSE P ALEX:+91-8281425996<br>
+                        TISHIL JOPPAN
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    HOLMES (RULES AND REGULATIONS)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      HOLMES (RULES AND REGULATIONS)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "eee#collapsible-region-2"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-2">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>●A team must have three members.<br>
+                        ● It is not mandatory for all the members of a team to
+                        be from the same institution.<br>
+                        ● Contestants should present their college ID
+                        cards.<br>
+                        ● Additional rules will be provided by the organizers
+                        on site.<br>
+                        ●Depending upon the number of teams necessary
+                        preliminary rounds will be conducted.<br>
+                        ●The participating teams must have at least one mobile
+                        phone.<br>
+                        ●Decision of the organizers will be final in all cases.
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    BEQUIREL- “The Real Engineer”
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      BEQUIREL- “The Real Engineer”
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "eee#collapsible-region-3"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-3">
+                      <div>
+                        
+                        <p id="desc">
+                          Step in together as a team; prove your worth to be
+                          the best electrical engineer. Pull out your wires and
+                          tighten your screws as we welcome you to an
+                          enthralling challenge<br>
+                          This eventconsists of 3 rounds. The event aims to
+                          test the basic skills of an electrical engineer with
+                          added spice.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>General rules:<br>
+                        • Teams should register their names before the
+                        commencement of the preliminary round.<br>
+                        • Registered teams should be present at the venue on
+                        time.<br>
+                        • Description of rounds will only be provided at the
+                        time of the competition.<br>
+                        • Any damage done to the apparatus during the
+                        competition will lead to fines.<br>
+                        • Final decision regarding any matter will be left to
+                        the coordinators in charge.<br>
+                        • Violation ofthe rules will lead to disqualification.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>PRIZE MONEY<br>
+                        First prize : 5000/-
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>TIME AND VENUE<br>
+                        Venue: EEE Electronics Circuits Lab<br>
+                        (Electrical laboratory block)<br>
+                        Time :10 00 am 22nd Sept,2015
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    MHO (poster designing )
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      MHO (poster designing )
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "eee#collapsible-region-4"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-4">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>RULES<br>
+                        • All participants should produce their college
+                        identity card at the registration desk<br>
+                        • A team allows a maximum of two numbers<br>
+                        • The topic should be purely technical<br>
+                        • The size should be A1(portrait) size and the material
+                        should be flex<br>
+                        • First prize 3k<br>
+                        • Second prize 2k<br>
+                        • Third prize 1k<br>
+                        • Participation certificates will be issued to all
+                        participants
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    SCRAP SQUADZ (Scrapyard Contraption)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      SCRAP SQUADZ (Scrapyard Contraption)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "eee#collapsible-region-5"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-5">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>EVENT RULES<br>
+                        • All participants should produce their ID cards at the
+                        registration desk. Registration fee is Rs.50 per
+                        participant.<br>
+                        • A team allows a maximum of 5 members.<br>
+                        • The highest scoring 5 teams clearing the preliminary
+                        round qualify for the final round.<br>
+                        • All participants should remain in the college campus
+                        until the preliminary results are announced.<br>
+                        • Certificates will be issued only to the
+                        finalists.<br>
+                        <br>
+                        GENERAL RULES<br>
+                        • Decision of the organizers will be final.<br>
+                        • In case of any dispute, Bodhi program committee will
+                        take final decision.<br>
+                        • We are not responsible for any material or data lost
+                        mental or physical harm that may be caused by
+                        participating in the event.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>Prize Money: Rs.5000
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>Time: 10am<br>
+                        Venue:
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Coordinator: Mr. AneeshKurian
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    Real Steel
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      Real Steel
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "eee#collapsible-region-6"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-6">
+                      <div>
+                        <h3>
+                          Real Steel
+                        </h3>
+                        <p>
+                          Will be updated soon...
+                        </p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+				<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+			</div>
+    </footer><!-- js -->
+    <script src=
+    "js/jquery.min.js"></script> <script src="js/base.min.js"></script> <!-- js for this project -->
+     <script src="js/project.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+		<title>
+			Bodhi Events
+		</title><!-- css -->
+		<link href="css/base.min.css" rel="stylesheet"><!-- css for this project -->
+		<link href="css/project.min.css" rel="stylesheet"><!-- favicon -->
+		<!-- ... -->
+		<!-- ie -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body class="avoid-fout page-brand">
+		<div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+			<div class="progress-circular progress-circular-center">
+				<div class="progress-circular-wrapper">
+					<div class="progress-circular-inner">
+						<div class="progress-circular-left">
+							<div class="progress-circular-spinner"></div>
+						</div>
+						<div class="progress-circular-gap"></div>
+						<div class="progress-circular-right">
+							<div class="progress-circular-spinner"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<header class="header header-transparent header-waterfall">
+			<ul class="nav nav-list pull-left">
+				<li>
+					<a href="index.php"><span class="fa fa-arrow-left fa-1x"></span></a>
+				</li>
+			</ul><a class="header-logo margin-left-no" href="index.php">Bodhi2k15</a>
+			<div class="header-affix pull-left" data-offset-top="108" data-spy="affix">
+				<span class="header-text margin-left-no"><i class=
+				"icon margin-right">chevron_right</i>EC. Dept Events</span>
+			</div>
+		</header>
+		
+		<div class="content">
+			<div class="content-heading">
+				<div class="container">
+					<h1 class="heading">
+						EC. Dept Events
+					</h1>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										MOKSHAYATI (Circuit Debugging)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											MOKSHAYATI (Circuit Debugging)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ec#collapsible-region-1"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-1">
+											<div>
+												
+												<p id="desc">
+													Dive into the labyrinth of twisted networks and
+													circuits. Brainstorm your way out of this mess
+													and become the master debugger.
+												</p>
+												<p></p>
+												<p id="rules">
+													Rules
+												</p>1. The maximum number of participants per group
+												is limited to 2.<br>
+												2. The initial filtering of the candidates will be
+												done by conducting a preliminary test.<br>
+												3. The competition is open to all B. Tech ECE
+												students.<br>
+												4. All the candidates will get participation
+												certificates.<br>
+												5. There will be first, second and third
+												prizes.<br>
+												6. The participants should come with their college
+												ID Card.<br>
+												7. The organizers reserve the right to
+												change/update the rules of the contest at any point
+												of time and will do their best to inform to
+												participants of the same. However, it is ultimately
+												the responsibility of the teams to keep themselves
+												updated.<br>
+												8. Decision of the judges and the event heads shall
+												be treated as final and binding on all and cannot
+												be contested.
+												<p></p>
+												<p></p>
+												<p id="prize">
+													Prize
+												</p>FIRST PRIZE : Rs. 5000<br>
+												SECOND PRIZE : Rs. 3000<br>
+												THIRD PRIZE : Rs. 1000
+												<p></p>
+												<p></p>
+												<p id="otherdetails">
+													Other Details
+												</p>Circuits I Lab<br>
+												Time & date<br>
+												September 22nd, 2015<br>
+												Prelims: 12.00 pm - 12:30 pm<br>
+												Finals: 1.30 pm � 4.00 pm
+												<p></p>
+												<p></p>
+												<p id="coordinators">
+													Coordinators
+												</p>Staff coordinators<br>
+												1. Anish M Jose<br>
+												Asst. Professor, ECE<br>
+												Mob: 9447122163<br>
+												2. Vanitha Rugmoni<br>
+												Asst. Professor, ECE<br>
+												Student coordinators<br>
+												1. Ann Maria Joy (S7 ECE B)<br>
+												2. Prathiba Davis (S5 ECE B)<br>
+											</div>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										PRAKALPA (Project Exhibition)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											PRAKALPA (Project Exhibition)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ec#collapsible-region-2"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-2">
+											<div>
+												
+												<p></p>
+												<p id="rules">
+													Rules
+												</p>1. The interested candidates can exhibit only
+												their mini projects.<br>
+												2. This is a group event. The maximum number of
+												participants per group is limited to 4.<br>
+												3. The participants will have to demonstrate their
+												project.<br>
+												4. It will be followed by a question and answer
+												session.<br>
+												5. The candidates should submit the Mini Project
+												Report or bonafide certificate from HOD or
+												Principal.<br>
+												6. The competition is open to all B. Tech
+												students.<br>
+												7. All the candidates will get participation
+												certificates.<br>
+												8. There will be first, second and third
+												prizes.<br>
+												9. The participants should come with their college
+												ID Card.<br>
+												10. The organizers reserve the right to
+												change/update the rules of the contest at any point
+												of time and will do their best to inform to
+												participants of the same. However, it is ultimately
+												the responsibility of the teams to keep themselves
+												updated.<br>
+												11. Decision of the judges and the event heads
+												shall be treated as final and binding on all and
+												cannot be contested.
+												<p></p>
+												<p></p>
+												<p id="prize">
+													Prize
+												</p>FIRST PRIZE : Rs. 5000<br>
+												SECOND PRIZE : Rs. 3000<br>
+												THIRD PRIZE : Rs. 2000
+												<p></p>
+												<p></p>
+												<p id="otherdetails">
+													Other Details
+												</p>Communication I & II Lab<br>
+												Time & Date<br>
+												September 22nd, 2015<br>
+												Reporting time: 10.30 am<br>
+												Program Schedule: 11.00 am - 4.00 pm
+												<p></p>
+												<p></p>
+												<p id="coordinators">
+													Coordinators
+												</p>Staff coordinators<br>
+												1. Niji Mathews<br>
+												Asst. Professor, ECE<br>
+												2. Sani John<br>
+												Asst. Professor, ECE<br>
+												Student coordinators<br>
+												1. Basil Kochupurackan (S7 ECE A)<br>
+												Mob: 9946398555<br>
+												2. Jithesh Joshy (S5 ECE A)<br>
+												Mob: 8111829016
+												<p></p>
+											</div>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										SHASTRAPATHRA (Technical Paper Presentation)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											SHASTRAPATHRA (Technical Paper Presentation)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ec#collapsible-region-3"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-3">
+											<div>
+												
+												<p id="desc">
+													Technical Paper Presentation - Skimming through
+													new technology if you find something novel,
+													come share it with the world.
+												</p>
+												<p></p>
+												<p id="rules">
+													Rules
+												</p>1. Interested candidates are advised to mail
+												the complete paper in IEEE format by 17th September
+												2015 to ece.bodhi2015@vjcet.org with in the subject
+												field of the e-mail.<br>
+												2. The front page should have title of paper on the
+												top and the details of the candidate including
+												Name, Semester, College, Contact number and
+												email-ID at the bottom. The number of pages of the
+												paper should be limited to a maximum of five
+												excluding the front page.<br>
+												3. The competition is open to all B. Tech students.
+												The paper should be related to Electronics and
+												Communication field.<br>
+												4. Maximum number of participants in a group is 2
+												.<br>
+												5. The participants of shortlisted candidates will
+												be informed by E-mail by 18th September 2015 and
+												they would have to send reply with the powerpoint
+												slides on or before 19th September 2015 confirming
+												their participation.<br>
+												6. The selected candidates have to present their
+												papers on 23rd September 2015.<br>
+												7. Decision of the judges and the event heads shall
+												be treated as final and binding on all and cannot
+												be contested.<br>
+												8. All the candidates will get participation
+												certificates.<br>
+												9. There will be first ,second and third
+												prizes.<br>
+												10. The participants should come with college ID
+												Card.<br>
+												11. The candidate will get 8-10 minutes to present
+												their paper.<br>
+												12. It will be followed by a question and answer
+												session.<br>
+												13. The participants will have to present their
+												papers in MS-Power Point format only.<br>
+												14. Violation of any rule can result in rejection
+												of paper.<br>
+												15. The organizers reserve the right to
+												change/update the rules of the contest at any point
+												of time and will do their best to inform to
+												participants of the same. However, it is ultimately
+												the responsibility of the teams to keep themselves
+												updated.
+												<p></p>
+												<p></p>
+												<p id="prize">
+													Prize
+												</p>FIRST PRIZE : Rs. 5000<br>
+												SECOND PRIZE : Rs. 3000<br>
+												THIRD PRIZE : Rs. 1000
+												<p></p>
+												<p></p>
+												<p id="otherdetails">
+													Other Details
+												</p>M.Tech Seminar Hall<br>
+												Time & Date<br>
+												September 23rd, 2015<br>
+												Reporting time: 9.30 am<br>
+												Program Schedule: 10.00 am � 4.00 pm
+												<p></p>
+												<p></p>
+												<p id="coordinators">
+													Coordinators
+												</p>Staff coordinators<br>
+												1. Rajesh Cherian Roy<br>
+												Asst. Professor, ECE<br>
+												Mob: 9847061917<br>
+												2. Smitha Cyriac<br>
+												Asst. Professor, ECE<br>
+												Student coordinators<br>
+												1. Ajay Varghese (S7 ECE A)<br>
+												Mob: 8089245139<br>
+												2. Jobin Jose (S5 ECE A)<br>
+												Mob: 9497703477
+												<p></p>
+											</div>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										PRASHNOTHARA (Technical Quiz)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											PRASHNOTHARA (Technical Quiz)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ec#collapsible-region-4"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-4">
+											<div>
+												
+												<p id="desc">
+													Reveal to the world your arsenal of technical
+													knowledge and skills. Let the mightiest amongst
+													you prevail.
+												</p>
+												<p></p>
+												<p id="rules">
+													Rules
+												</p>1. The maximum number of participants per group
+												is limited to 2.<br>
+												2. The initial filtering of the candidates will be
+												done by conducting a preliminary test.<br>
+												3. The competition is open to all B. Tech
+												students.<br>
+												4. All the candidates will get participation
+												certificates.<br>
+												5. There will be first, second and third
+												prizes.<br>
+												6. The participants should come with their college
+												ID Card.<br>
+												7. The organizers reserve the right to
+												change/update the rules of the contest at any point
+												of time and will do their best to inform to
+												participants of the same. However, it is ultimately
+												the responsibility of the teams to keep themselves
+												updated.<br>
+												8. Decision of the judges and the event heads shall
+												be treated as final and binding on all and cannot
+												be contested.
+												<p></p>
+												<p></p>
+												<p id="prize">
+													Prize
+												</p>FIRST PRIZE : Rs. 4000<br>
+												SECOND PRIZE : Rs. 3000<br>
+												THIRD PRIZE : Rs. 2000
+												<p></p>
+												<p></p>
+												<p id="otherdetails">
+													Other Details
+												</p>PTC Seminar Hall<br>
+												Time & Date<br>
+												September 23, 2015<br>
+												Prelims: 11.00 am - 12.00 pm<br>
+												Finals: 1.30 pm - 4.00 pm
+												<p></p>
+												<p></p>
+												<p id="coordinators">
+													Coordinators
+												</p>Staff coordinators<br>
+												1. Merlin Thomas<br>
+												Asst. Professor, ECE<br>
+												2. Mary Nirmala George<br>
+												Asst. Professor, ECE<br>
+												Student coordinators<br>
+												1. Aiswarya S (S7 ECE B)<br>
+												2. Romy Byju (S5 ECE A)<br>
+												Mob: 9946495007
+												<p></p>
+											</div>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>					
+				</div>
+			</div>
+		</div>
+		<footer class="footer">
+			<div class="container">
+				<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+			</div>
+		</footer><!-- js -->
+		<script src="js/jquery.min.js"></script> <script src="js/base.min.js"></script> <!-- js for this project -->
+		 <script src="js/project.min.js"></script>
+	</body>
+</html>

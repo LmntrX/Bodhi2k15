@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+	<title>Bodhi 2k15</title>
+
+	<!-- css -->
+	<link href="css/base.min.css" rel="stylesheet">
+
+	<!-- css for this project -->
+	<link href="css/project.min.css" rel="stylesheet">
+
+	<!-- favicon -->
+	<!-- ... -->
+
+	<!-- ie -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+</head>
+<body class="avoid-fout page-brand">
+	<div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+		<div class="progress-circular progress-circular-center">
+			<div class="progress-circular-wrapper">
+				<div class="progress-circular-inner">
+					<div class="progress-circular-left">
+						<div class="progress-circular-spinner"></div>
+					</div>
+					<div class="progress-circular-gap"></div>
+					<div class="progress-circular-right">
+						<div class="progress-circular-spinner"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<header class="header header-transparent header-waterfall">
+		<ul class="nav nav-list pull-left">
+			<li>
+				<a data-toggle="menu">
+					<span class="fa fa-home"></span>
+				</a>
+			</li>
+		</ul>
+		<a class="header-logo margin-left-no" href="index">Bodhi 2015</a>		
+	</header>
+	
+	<div class="content">
+		<div class="content-heading">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 col-lg-push-3 col-sm-10 col-sm-push-1">
+						<h1 class="heading">Bodhi 2015</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container" id="home">
+			<div class="row">
+				<div class="col-lg-6 col-lg-push-3 col-sm-10 col-sm-push-1">
+					<section class="content-inner">
+						<h3>Viswajyothi College of Engg. &amp; Technology proudly presents</h3>
+						<h1 class="heading">Bodhi 2k15</h1>
+						<blockquote>
+							<p>
+								Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam.
+							</p>
+							<p>
+							A wholesome festival encompassing the everyday segments of life – work, fun and passion into a single technological extravaganza.
+							</p>
+						</blockquote>
+						<img class="img-responsive" src="images/home.jpg">
+						<h2 class="content-sub-heading">Events @ Bodhi2k15</h2>
+						<div class="tile-wrap">
+							<a class="tile waves-attach" href="me">
+								<div class="tile-inner">
+									<span>Mech. Dept. Events</span>
+								</div>
+							</a>
+							<a class="tile waves-attach" href="ce">
+								<div class="tile-inner">
+									<span>Civil Dept. Events</span>
+								</div>
+							</a>
+							<a class="tile waves-attach" href="cs">
+								<div class="tile-inner">
+									<span>CS Dept. Events</span>
+								</div>
+							</a>
+							<a class="tile waves-attach" href="eee">
+								<div class="tile-inner">
+									<span>EEE Dept. Events</span>
+								</div>
+							</a>
+							<a class="tile waves-attach" href="ec">
+								<div class="tile-inner">
+									<span>EC Dept. Events</span>
+								</div>
+							</a>
+							<a class="tile waves-attach" href="it">
+								<div class="tile-inner">
+									<span>IT Dept. Events</span>
+								</div>
+							</a>
+							<a class="tile waves-attach" href="mba">
+								<div class="tile-inner">
+									<span>MBA Dept. Events</span>
+								</div>
+							</a>
+							<a class="tile waves-attach" href="gen">
+								<div class="tile-inner">
+									<span>General Events</span>
+								</div>
+							</a>
+						</div>
+						<h2 class="content-sub-heading">Special Events @ Bodhi2k15</h2>
+						<div class="tile-wrap">
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+									<span  class="content-sub-heading">EC Department</span>
+										<p><strong>TECHNICAL TALK :</strong></p>
+										<span><strong>DR. NEELAKANTAN P C, PRINCIPAL, ASIET</span></strong>
+										<br>
+										TIME : 2:30PM <br>
+										VENUE : PTC SEMINAR HALL<br> 
+										DATE :22 SEP<br><br>
+										<span><strong>HOBBY CIRCUITS AND CREATIVE ARTS EXHIBITION</strong></span>
+										<br>
+										TIME : 10:30 AM - 4:00 PM<br>
+										VENUE : IC LAB &amp; B 203
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+									<span class="content-sub-heading">IT &amp; CSE Department</span>
+									<p><strong>TECHNICAL TALK :</strong></p>
+										<span><strong>DR.VINOD CHANDRA SS</span></strong>
+										<br>
+										TIME : 9am to 11am <br>
+										VENUE : Main Auditorium <br> 
+										DATE : 23 SEP<br>
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">MECHANICAL DEPARTMENT</span> 
+										<p><strong>TECHNICAL TALK :</strong></p>
+										<span><strong>DR. BRIJESH PAUL, Asst. Prof, MACE</span></strong>
+										<br>
+										TIME : 11.00 AM -12.00 PM<br>
+										VENUE : SEMINAR HALL-MED <br>
+										DATE :22 SEP<br><br>
+
+										<span><strong>MECHANICAL PAVILION</strong></span>
+										TIME : 10.00 AM – 04.00 PM<br>
+										VENUE : BASKET BALL COURT
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+									<span class="content-sub-heading">EEE DEPARTMENT</span> 
+										<p><strong>TECHNICAL TALK :</strong></p>
+										<span><strong>Ms. SINY PAUL ,Associate Prof MACE</span></strong>
+										<br>
+										TIME : 11 AM to 12 PM<br>
+										VENUE : C-LAB <br>
+										DATE :22 SEP<br><br>									
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+									<span class="content-sub-heading">CIVIL DEPARTMENT</span> 
+										<p><strong>TECHNICAL TALK ON “Fem Unified with ANSYS”</strong></p>
+										<span><strong>Dr. ALICE MATHAI  Professor, MACE</span></strong>
+										<br>
+										TIME: 10.30 AM - 11.30AM<br>
+										VENUE: CIVIL SEMINAR HALL <br>
+										DATE : 22 SEP<br><br>									
+								</div>
+							</div>
+							
+						<h2 class="content-sub-heading">CORDINATORS</h2>
+						<div class="tile-wrap">
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">ME DEPARTMENT</span> 	<br>								
+										<span class="pull-left"><strong>STAFF CO-ORDINATOR</span></strong>										
+										<span class="pull-right"><strong>JERRY VARGHESE [8281685253]</span></strong>
+										<br>
+										<span class="pull-left"><strong>STUDENT CO-ORDINATOR</span></strong>
+										<br>
+										<span class="pull-right"><strong>SANJO SANTHOSH [9539348925]<br>ALBIN BENNY [8281701996]</span></strong>
+										<br>																			
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">ECE DEPARTMENT</span> 	<br>								
+										<span class="pull-left"><strong>STAFF CO-ORDINATOR</span></strong>										
+										<span class="pull-right"><strong>SUSAN JOSHY [9847283253]</span></strong>
+										<br>
+										<span class="pull-right"><strong>MANJU THOMAS [9744239254]</span></strong>
+										<br>
+										<span class="pull-left"><strong>STUDENT CO-ORDINATOR</span></strong>
+										<br>
+										<span class="pull-right"><strong>REN CHALISSERY [9633190325]<br>ANN PAUL</span></strong>
+										<br>																			
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">EEE DEPARTMENT</span> 	<br>								
+										<span class="pull-left"><strong>STAFF CO-ORDINATOR</span></strong>										
+										<span class="pull-right"><strong>SONY KURIAN [9447925215]</span></strong>
+										<br>
+										<span class="pull-left"><strong>STUDENT CO-ORDINATOR</span></strong>
+										<br>
+										<span class="pull-right"><strong>MATHEW P MATHEW [974679937]<br>VIJAY SAJEEV [8129518607]</span></strong>
+										<br>																			
+								</div>
+							</div>							
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">CS DEPARTMENT</span> 	<br>								
+										<span class="pull-left"><strong>STAFF CO-ORDINATOR</span></strong>										
+										<span class="pull-right"><strong>ANISHIN RAJ M.M [9061348871]</span></strong>
+										<br>
+										<span class="pull-right"><strong>ANDREWS JOSE [9895987155]</span></strong>
+										<br>
+										<span class="pull-left"><strong>STUDENT CO-ORDINATOR</span></strong>
+										<br>
+										<span class="pull-right"><strong>NEVIN FRANCIS [9446333192]<br>VINEETH PAUL GEEVER [9496001172]</span></strong>
+										<br>																			
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">IT DEPARTMENT</span> 	<br>								
+										<span class="pull-left"><strong>STAFF CO-ORDINATOR</span></strong>										
+										<span class="pull-right"><strong>DIANA BABY</span></strong>
+										<br>
+										<span class="pull-right"><strong>ANN PREETHA JOSE</span></strong>
+										<br>
+										<span class="pull-left"><strong>STUDENT CO-ORDINATOR</span></strong>
+										<br>
+										<span class="pull-right"><strong>AKSHIT P KUMAR [8893205070]<br>SACHIN NANDAKUMAR [8129889759]</span></strong>
+										<br>																			
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">CE DEPARTMENT</span> 	<br>								
+										<span class="pull-left"><strong>STAFF CO-ORDINATOR</span></strong>										
+										<span class="pull-right"><strong>APPU JOHN [9747977173]</span></strong>
+										<br>
+										<span class="pull-left"><strong>STUDENT CO-ORDINATOR</span></strong>
+										<br>
+										<span class="pull-right"><strong>MIDHUN MADHUSOODHANAN [9747175010]<br>JAYALEKSHMI S</span></strong>
+										<br>																			
+								</div>
+							</div>
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">MBA DEPARTMENT</span> 	<br>								
+										<span class="pull-left"><strong>STAFF CO-ORDINATOR</span></strong>										
+										<span class="pull-right"><strong>SREENATH R NAIR [9539084494]</span></strong>
+										<br><br>
+										<span class="pull-right"><strong>AMBILY JOSE</span></strong>
+										<br>
+										<span class="pull-left"><strong>STUDENT CO-ORDINATOR</span></strong>
+										<br>
+										<span class="pull-right"><strong>CHERIAN VARKEY [8281215449]<br>ELDHOSE PAUL [8157975690]</span></strong>
+										<br>																			
+								</div>
+							</div>	
+							<div class="tile waves-attach">
+								<div class="tile-inner">
+										<span class="content-sub-heading">COLLEGE UNION</span> 	<br>								
+										<span class="pull-left"><strong>CHAIRMAN</span></strong>										
+										<span class="pull-right"><strong>JOSE JOJAN [8086586806]</span></strong>
+										<br>										
+										<span class="pull-left"><strong>ARTS CLUB SECRETARY</span></strong>
+										<br>
+										<span class="pull-right"><strong>PRANAV JOY</span></strong>
+										<br>																			
+								</div>
+							</div>						
+						</div>						
+					</section>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+		</div>
+	</footer>
+	<!-- js -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/base.min.js"></script>
+
+	<!-- js for this project -->
+	<script src="js/project.min.js"></script>
+</body>
+</html>

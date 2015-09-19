@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+		<title>
+			Bodhi Events
+		</title><!-- css -->
+		<link href="css/base.min.css" rel="stylesheet"><!-- css for this project -->
+		<link href="css/project.min.css" rel="stylesheet"><!-- favicon -->
+		<!-- ... -->
+		<!-- ie -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body class="avoid-fout page-brand">
+		<div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+			<div class="progress-circular progress-circular-center">
+				<div class="progress-circular-wrapper">
+					<div class="progress-circular-inner">
+						<div class="progress-circular-left">
+							<div class="progress-circular-spinner"></div>
+						</div>
+						<div class="progress-circular-gap"></div>
+						<div class="progress-circular-right">
+							<div class="progress-circular-spinner"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<header class="header header-transparent header-waterfall">
+			<ul class="nav nav-list pull-left">
+				<li>
+					<a href="index"><span class="fa fa-arrow-left fa-1x"></span></a>
+				</li>
+			</ul><a class="header-logo margin-left-no" href="index">Bodhi2k15</a>
+			<div class="header-affix pull-left" data-offset-top="108" data-spy="affix">
+				<span class="header-text margin-left-no"><i class=
+				"icon margin-right">chevron_right</i>Civil. Dept Events</span>
+			</div>
+		</header>		
+		<div class="content">
+			<div class="content-heading">
+				<div class="container">
+					<h1 class="heading">
+						Civil. Dept Events
+					</h1>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										SHASTRAPATHRA (Paper Presentation)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											SHASTRAPATHRA (Paper Presentation)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ce#collapsible-region-1"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-1">
+											<p id="desc">
+												The department of Civil Engineering, VJCET invites
+												you to participate in ‘Shastrapathra”, a technical
+												paper presentation competition. This is the
+												platform to express yourself, make your views
+												known, explore your ideas and make the best paper
+												presentation ever. A chance to get recognition and
+												reward for your work. Who knows this could be your
+												first step to fame and glory!
+											</p>
+											<p></p>
+											<p id="rules">
+												Rules
+											</p>Event Format: (Details of each round )<br>
+											• Authors willing to present technical papers in
+											Bodhi2015 must submit the soft copy of their papers by
+											strictly following the regulations.<br>
+											• Papers must be prepared as per IEEE format (Download
+											IEEE Format) in Microsoft Word 2003 (.doc)<br>
+											• The soft copy of the full paper must be sent to the
+											following email E-mail to: ce. ce.bodhi2015@vjcet.org
+											(civil papers)<br>
+											Rules:<br>
+											• The time limit for each presentation is limited to 10
+											minutes.<br>
+											• The presentation will be followed by 5 minutes of
+											discussion.<br>
+											• Time limit should be strictly followed.<br>
+											• The presentation should be in Microsoft Power Point
+											2003 format (.ppt )<br>
+											• LCD projector & laptop will be provided.<br>
+											• Authors must give a copy of their presentation on a
+											CD to the respective coordinator 1 hour prior to the
+											presentation.<br>
+											• No participant can be an author of more than one
+											paper, any number of teams from a college can
+											participate.<br>
+											• Each team may have a maximum of two members. Only
+											power point presentation {PPT} will be accepted.<br>
+											• Decision of the judges will be final.<br>
+											• All results will be announced on the website & will
+											be mailed to the successful teams.<br>
+											• The paper should be in IEEE format.<br>
+											• Every participant has to send soft copy of the
+											abstract and contact details to the e-mail id
+											ce.bodhi2015@vjcet.org on or before 17 th September
+											2015 and the camera ready copy on or before 19 th
+											September 2015 .<br>
+											• 20 th September 2015 - Notification of Acceptance<br>
+											<br>
+											Topics for Civil: The following are the suggested areas
+											of papers. The papers from areas other than the ones
+											mentioned bellow will also be considered.<br>
+											• Disaster resisting solutions<br>
+											• Automation in construction industry<br>
+											• Futuristic architecture<br>
+											• Environmental Engineering<br>
+											• Structural Engineering<br>
+											• Sustainable building technology<br>
+											• Intelligent Buildings<br>
+											• Innovative structural designs-case studies<br>
+											• Ground Improvement Techniques<br>
+											• Modern Construction Materials and Techniques.<br>
+											Maximum number of participants: 2
+											<p></p>
+											<p></p>
+											<p id="prize">
+												Prize
+											</p>PRIZE<br>
+											1.5000<br>
+											2.3000<br>
+											3.1000
+											<p></p>
+											<p></p>
+											<p id="otherdetails">
+												Other Details
+											</p>TIME AND VENUE<br>
+											10.30 am - 11.30am CIVIL SEMINAR HALL – D 406<br>
+											11.30am - 4.00pm
+											<p></p>
+											<p></p>
+											<p id="coordinators">
+												Coordinators
+											</p>Ms. STEPHY JACQUELINE GEORGE [9446821233] MARTIN
+											JOSE [9539550354]<br>
+											Ms. ASHA C RAJU [9446740183]
+											<p></p>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										CHITRALEKHANA (AutoCAD Drawing)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											CHITRALEKHANA (AutoCAD Drawing)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ce#collapsible-region-2"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-2">
+											<p id="desc">
+												Creativity can make you stand out of the crowd.
+												Bring into play your creativity and put your
+												imagination to use. Construct your ideas and use
+												your talent in this event to have a virtual view of
+												your thoughts. Make it real, simply because you can
+												- through AutoCAD. Get ready to flaunt your digital
+												creativity, show off your modeling skills and
+												dazzle the world. So grab the opportunity, let this
+												be the first step to your dreams!!!!!
+											</p>
+											<p></p>
+											<p id="rules">
+												Rules
+											</p>• Only undergraduate students from recognized
+											institutes are eligible for participation in the
+											event<br>
+											• Each team should comprise a maximum of 2 members and
+											the team members should have their valid College ID
+											cards<br>
+											• Prelims will be conducted and elimination will be
+											carried out depending upon the number of entries and
+											only one participant per team can attend the
+											prelims<br>
+											• Requirements of either a residential /commercial
+											building will be given on the spot to the
+											participant<br>
+											• 2hrs and 30 min will be the time limit<br>
+											• Participants have to develop the plan, section and
+											elevation / site plan conforming to KMBR rules, with
+											the help of AutoCAD 2012 software provided<br>
+											• Duplication is strictly prohibited, if caught would
+											be subjected to disqualification<br>
+											• Organizing committee reserves all the right to
+											disqualify a participant in case of any
+											indiscipline<br>
+											• Decision of judges shall be final and it will be
+											binding to all
+											<p></p>
+											<p></p>
+											<p id="prize">
+												Prize
+											</p>PRIZE<br>
+											1- 5000<br>
+											2- 3000<br>
+											3- 1000
+											<p></p>
+											<p></p>
+											<p id="otherdetails">
+												Other Details
+											</p>Time & Venue<br>
+											PRELIMS: 11.00 am – 11.30 am CIVIL CAD LAB – D 407<br>
+											FINAL: 12.30 pm – 3.30pm
+											<p></p>
+											<p></p>
+											<p id="coordinators">
+												Coordinators
+											</p>Ms. MINU C JOY<br>
+											PETER S KUNNEL, S7CE [9496068841]<br>
+											Ms. TINTU SHINE A.L
+											<p></p>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										SETHUBANDHAN ( Popsicle Bridge Testing)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											SETHUBANDHAN ( Popsicle Bridge Testing)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ce#collapsible-region-3"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-3">
+											<p id="desc">
+												Trestle: Bridge it<br>
+												Bridges are one of the most useful and magnificent
+												structures of the modern civilization. With ever
+												improving designs bridges carry immense loads daily
+												and are also expected to handle incidental loads
+												due to natural calamities. We bring you a bridge
+												making competition that would test your ability to
+												design and construct the most efficient bridge
+												within the specifications. Model bridges are
+												intended to be simplified versions of real world
+												bridges, which are designed to accept.
+											</p>
+											<p></p>
+											<p id="rules">
+												Rules
+											</p>1) Form a group of two; all two participants must
+											be from the same educational institution.<br>
+											2) The participants must carry valid identity card of
+											the institution to which they belong to; failing which
+											they will not be allowed to take part in the event.<br>
+											3) The bridge must be constructed only from Popsicle
+											sticks and Fevicol white adhesives.<br>
+											4) Sticks may be cut or trimmed to any shape or
+											size.<br>
+											5) Bridge failure is defined as the inability of the
+											bridge to carry additional load.<br>
+											Design Criteria<br>
+											1) The choice of the type of bridge is upon the
+											discretion of participant.<br>
+											2) The bridge shall be of single deck, though which a
+											vehicle of width 100mm and height 100mm can move.<br>
+											3) Clear span between the supports shall be 600mm and
+											width 120mm.<br>
+											4) The deck shall be continuous and height of the
+											bottom of deck shall be 150mm from the ground
+											level.<br>
+											Testing Procedure<br>
+											1) A vehicle of dimension 100mm x 100mm x 100mm and
+											weights 50kg will pass through the deck.<br>
+											2) The bridge will be loaded at mid span and deflection
+											shall be recorded.<br>
+											3) The bridge obtaining highest Load Bearing
+											Capacity(LBC) shall be selected to the first
+											position.<br>
+											4) Load bearing capacity will be calculated as
+											follows:<br>
+											LBC = [Load taken for failure (kg)] / [Deflection at
+											Mid Point(mm) x Self weight of the bridge(kg)]<br>
+											5) Result will be based on the perfection in crafting
+											(25%contribution) and LBC(75% contribution).
+											<p></p>
+											<p></p>
+											<p id="prize">
+												Prize
+											</p>PRIZE<br>
+											1.5000<br>
+											2.3000<br>
+											3.1000
+											<p></p>
+											<p></p>
+											<p id="otherdetails">
+												Other Details
+											</p>Time and Venue<br>
+											10.30 am – 12.30 pm MATERIAL TESTING LAB- II : CL-204
+											<p></p>
+											<p></p>
+											<p id="coordinators">
+												Coordinators
+											</p>Ms. JERIN JOSE<br>
+											AJITH RAJU [8086049178]<br>
+											Ms. VINEETHA THANKACHAN
+											<p></p>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										PRASHNOTHARI (Technical Quiz)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											PRASHNOTHARI (Technical Quiz)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ce#collapsible-region-4"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-4">
+											<p id="desc">
+												We welcome you to the glittering event of BODHI
+												2015 "PRASHNOTHARI" by the department of Civil
+												Engineering, VJCET. Prashnothari is mainly focused
+												on questions related to civil engineering. A few
+												questions from general awareness about buildings
+												and architecture are also included. Participate and
+												win exciting prizes.
+											</p>
+											<p></p>
+											<p id="rules">
+												Rules
+											</p>1) Each team may have a maximum of two members.<br>
+											2) Mobile phones and browsing of internet are strictly
+											prohibited.<br>
+											3) Preliminary round will be a written test.<br>
+											4) Four teams would be selected for main rounds.
+											<p></p>
+											<p></p>
+											<p id="prize">
+												Prize
+											</p>PRIZE<br>
+											1-5000<br>
+											2-3000<br>
+											3-1000
+											<p></p>
+											<p></p>
+											<p id="otherdetails">
+												Other Details
+											</p>Time and Venue<br>
+											PRELIMS: 11.30am – 12.15am CLASS ROOM (S3 CEA) :
+											D-208<br>
+											FINAL: 1.30pm – 3.30pm
+											<p></p>
+											<p></p>
+											<p id="coordinators">
+												Coordinators
+											</p>Ms. AMRUTHA S<br>
+											ANANTHU PRASAD [8281873372]<br>
+											Ms. DEVINA VIPINAN
+											<p></p>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										VIJJAPANAPATTRA (Poster Presentation)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											VIJJAPANAPATTRA (Poster Presentation)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"ce#collapsible-region-5"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-5">
+											<div>
+												
+												<p id="desc">
+													Poster presentation is a dynamic communication
+													tool evolved over the past four decades as a
+													means to accommodate the increasing no: of
+													researches especially graduate students seeking
+													in needs for scholarly presentation of
+													research. We have a very exciting poster
+													presentation competition in line for you. And
+													guess what it’s about… So put on your thinking
+													caps and be creative because it’s your chance
+													to show us how talented you are…
+												</p>
+												<p></p>
+												<p id="rules">
+													Rules
+												</p>•Maximum Size of the Poster – 3 feet x 2 feet
+												(A1 size)<br>
+												•Poster can be in flex, chart paper, satin fabric
+												or any other material with attractive colours.<br>
+												•Maximum five participants per poster.<br>
+												•One student can be part of max of 3 posters.<br>
+												•Attaching pins and fixing tapes will be provided
+												at the competition venue.<br>
+												•Event is opened only for Civil Engineering
+												students.<br>
+												<br>
+												<br>
+												Topic: All Fields of Civil Engineering<br>
+												• Data taken from other sources including websites,
+												books or journals should be acknowledged through a
+												list of references within the poster (Min:3 and
+												Max:10)<br>
+												• Softwares can be used.<br>
+												• Font type should be Arial and the sizes should be
+												as follows:<br>
+												Main title : 40 pt (bold uppercase)<br>
+												Sub heading: 20 pt (bold, uppercase)<br>
+												Body of text: 16 pt (normal)<br>
+												Smaller fonts may be used as per requirements.<br>
+												• Details of the participant (i.e. Name, id. No,
+												college) should be placed in the bottom right
+												corner of the poster.<br>
+												• The idea that is submitted for the contest should
+												not be previously published or presented at any
+												other place that secures copyright of the idea. If
+												any sort of plagiarism or copyright issues found
+												for your submission, we would not be considering
+												them.<br>
+												• The language must be English.<br>
+												• Can be as imaginative and creative as you want to
+												be.<br>
+												• The drawing / painting must not represent any
+												particular individual, organization, or brand name
+												and must not depict any religious theme.<br>
+												• All the posters will be evaluated by a panel of
+												judges (comprising of appearance, Faculty at VJCET)
+												against certain set criteria including overall
+												closeness to theme, impact of the message conveyed
+												through the poster, attractiveness of the poster,
+												readability etc to decide the winners.<br>
+												• The organizer may reject any entry which has not
+												fulfilled any of the above mentioned
+												requirements.<br>
+												• All confirmed participants are requested to send
+												the title of the poster, an abstract consisting of
+												a brief description of poster (maximum of 100
+												words) and their team details to
+												ce.bodhi2015@vjcet.org on or before 17 Sept 2015.
+												<p></p>
+												<p></p>
+												<p id="prize">
+													Prize
+												</p>PRIZE<br>
+												1.5000<br>
+												2.3000<br>
+												3.1000
+												<p></p>
+												<p></p>
+												<p id="otherdetails">
+													Other Details
+												</p>TIME AND VENUE<br>
+												10.30am CLASS ROOM (S3 CEB) : D-209
+												<p></p>
+												<p></p>
+												<p id="coordinators">
+													Coordinators
+												</p>Ms. BIJIMOL JOSEPH<br>
+												BINCE THOMAS [9497471081]<br>
+												Ms. ANU PAUL
+												<p></p>
+											</div>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer class="footer">
+			<div class="container">
+				<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+			</div>
+		</footer><!-- js -->
+		<script src="js/jquery.min.js"></script> <script src="js/base.min.js"></script> <!-- js for this project -->
+		 <script src="js/project.min.js"></script>
+	</body>
+</html>

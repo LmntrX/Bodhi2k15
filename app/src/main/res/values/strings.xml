@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bodhi 2k15</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">About</string>
+</resources>

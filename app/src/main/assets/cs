@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+    <title>
+      Bodhi Events
+    </title><!-- css -->
+    <link href="css/base.min.css" rel="stylesheet">
+    <!-- css for this project -->
+    <link href="css/project.min.css" rel="stylesheet"><!-- favicon -->
+    <!-- ... -->
+    <!-- ie -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  </head>
+  <body class="avoid-fout page-brand">
+    <div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+      <div class="progress-circular progress-circular-center">
+        <div class="progress-circular-wrapper">
+          <div class="progress-circular-inner">
+            <div class="progress-circular-left">
+              <div class="progress-circular-spinner"></div>
+            </div>
+            <div class="progress-circular-gap"></div>
+            <div class="progress-circular-right">
+              <div class="progress-circular-spinner"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <header class="header header-transparent header-waterfall">
+      <ul class="nav nav-list pull-left">
+        <li>
+          <a href="index"><span class="fa fa-arrow-left fa-1x"></span></a>
+        </li>
+      </ul><a class="header-logo margin-left-no" href="index">Bodhi2k15</a>
+      <div class="header-affix pull-left" data-offset-top="108" data-spy=
+      "affix">
+        <span class="header-text margin-left-no"><i class=
+        "icon margin-right">chevron_right</i>CS. Dept Events</span>
+      </div>
+    </header>
+    
+    <div class="content">
+      <div class="content-heading">
+        <div class="container">
+          <h1 class="heading">
+            CS. Dept Events
+          </h1>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    TECHNO BAZAAR (Sell!!! Sell!! Sell!)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      TECHNO BAZAAR (Sell!!! Sell!! Sell!)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "cs#collapsible-region-1"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-1">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1.Each team should contain2-3 members.<br>
+                        2. Each team should bring smart phones with internet
+                        connection and dubsmash app installed.<br>
+                        3.Reporting time .11:45 am<br>
+                        <br>
+                        PRELIMS<br>
+                        <br>
+                        Dubsmash<br>
+                        1. 2 to 3 participants should participate for this
+                        round.<br>
+                        2. Each team will be provided with an audio sample
+                        which is of 30 to 45 seconds.<br>
+                        3. The team should perform the Dubsmash for their
+                        provided audio when they are called.<br>
+                        4. Points will be valued based on their expression,
+                        body language and mouth movement to their respective
+                        audio.<br>
+                        5. Judges decision is final.<br>
+                        <br>
+                        SEMIFINALS<br>
+                        <br>
+                        Designing Skills<br>
+                        1. In this round the teams are supposed to present a
+                        poster for the product which they are allotted.<br>
+                        2. Gimp will be provided at the venue.<br>
+                        3. No other external software other than those provided
+                        by the coordinators will be allowed.<br>
+                        4. No internet access or external plugins will be
+                        provided.<br>
+                        5. Judging will be thoroughly based on the Quality,
+                        Creativity and Perfection.<br>
+                        6. Decision of Judges shall be final.<br>
+                        7. Poor images will be declared as Invalid entry.<br>
+                        <br>
+                        FINALS<br>
+                        <br>
+                        Adzap<br>
+                        1. Each team will be given a Technical product
+                        name.<br>
+                        2. The team should perform Adzap for their given
+                        product for 3 to 5 minutes.<br>
+                        3. Product name and Tag line should be mentioned during
+                        performance.<br>
+                        4. Usage of Mobiles by the team during the event will
+                        lead to elimination<br>
+                        5. The performance must be decent with no vulgar
+                        act.<br>
+                        6. The performance is Judged based on the clarity
+                        thought, innovativeness, humor, team co-ordination and
+                        expression.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Student Co-Coordinators<br>
+                        1. Thomas George, S7 CSEB<br>
+                        Mob: 8281714095<br>
+                        2. Tony Tomy, S7 CSEA<br>
+                        Mob: 9539503954<br>
+                        3. Therese Rose, S7 CSEB<br>
+                        4. Maria Chacko, S7 CSEB<br>
+                        5. Tony Thomas, S7 CSEB<br>
+                        Mob: 9645942450<br>
+                        6. Arun Baiby, S7 CSEB<br>
+                        Mob: 9961511458
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    C SWAP (Synchronized Coders)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      C SWAP (Synchronized Coders)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "cs#collapsible-region-2"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-2">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. The programme consist of two sections.<br>
+                        2. The first section is the priliminary test and the
+                        second section is the coding section.<br>
+                        3. The team has to pass the priliminary test to qualify
+                        for the second section.<br>
+                        4. Each team should contain only two members.<br>
+                        <br>
+                        Rules for coding section:<br>
+                        <br>
+                        1. Time alloted for each question is 30 minutes.<br>
+                        2. The first member of the team has to start coding the
+                        program, and the second member should wait outside.<br>
+                        3. After 15 minutes the second member has to come in
+                        and the first member has to go out.<br>
+                        4. Communication between the team members are not
+                        allowed.<br>
+                        5. Comments are not allowed in the program code.<br>
+                        6. Decisions made by the programme coordinators will be
+                        the final.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Co-ordinators<br>
+                        1. Anu Jose<br>
+                        Asst. Professor, CS<br>
+                        Student coordinators<br>
+                        1. GEORGEKUTTY JOYES S7 CSA<br>
+                        Mob: +91 95 39 503954<br>
+                        2. DEEPAK SOMAN S7 CSA<br>
+                        Mob: +91 94 96 626263<br>
+                        3. ATHIRA K S S7 CSA<br>
+                        4. JISHNU T G S7 CSA<br>
+                        Mob : +91 95 39 547743<br>
+                        5. ASWATHY S BENNY S7 CSA<br>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    T-W-E-R-Q-Y (Typing Skills)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      T-W-E-R-Q-Y (Typing Skills)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "cs#collapsible-region-3"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-3">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. Individual registration only.<br>
+                        2. Typing speed and accuracy are tested.<br>
+                        3. Event consists of 3 rounds.<br>
+                        4. Registration will be closed exactly 30 min prior to
+                        the event.<br>
+                        5. In any case, the decision of the judges will be
+                        final.<br>
+                        6. Directions provided by the coordinators should be
+                        strictly adhered to.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Co-ordinator<br>
+                        1. Anu Jose, Asst. Professor<br>
+                        Mob: 9497679807<br>
+                        Student Co-Ordinators<br>
+                        1. Hridul Raj K<br>
+                        Mob: 8281486782<br>
+                        2. Namitha Chandy<br>
+                        3. S Sheetal<br>
+                        4. Aswathy M Baby<br>
+                        5. Jithin Babu<br>
+                        Mob: 8606608698
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    &lt;/spider&gt; Web Designing
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      &lt;/spider&gt; Web Designing
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "cs#collapsible-region-4"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-4">
+                      <div>
+                        <p id="rules">
+                          Rules
+                        </p>1. Registration is allowed as an Individual or as a
+                        Team of 2 members.<br>
+                        2. Certificate of participation will be issued to each
+                        participant.<br>
+                        3. Participants will be given a problem statement on
+                        the spot for which you will have to develop a
+                        functional website.<br>
+                        4. Participants will have approximately 3 hours to
+                        design and develop your website.<br>
+                        5. All the required tools will be given to you on the
+                        day of the competition.<br>
+                        6. The website must be developed using HTML, CSS,
+                        JavaScript and JQuery.<br>
+                        7. Participants will not be allowed to carry any of
+                        their personal softwares, flash drives, CDs, DVDs or
+                        any other accessories.<br>
+                        8. You will not be allowed to take back any of the
+                        complete/incomplete product.<br>
+                        9. Prelims will be conducted depending upon the number
+                        of participants.<br>
+                        10. In any case, the decision of the judges will be
+                        final.<br>
+                        11. Directions provided by the coordinators should be
+                        strictly adhered to.<br>
+                        Development Tools and Materials<br>
+                        1. Google Chrome<br>
+                        2. Mozilla Firefox<br>
+                        3. Adobe Photoshop<br>
+                        4. jQuery 1.11.3<br>
+                        5. jQuery UI 1.11.4<br>
+                        6. CSS Handbook<br>
+                        7. Bootstrap Framework<br>
+                        8. Foundation Framework<br>
+                        9. Few content like images, icon packs, etc. will be
+                        provided to each participant.<br>
+                        10. Sublime Text<br>
+                        Prelims round<br>
+                        1. The round will consist of questions that will
+                        challenge the web designing skills of the
+                        participants.<br>
+                        2. The round will be of 30 minutes in duration.<br>
+                        3. Participants will be tabbed for the Main round on
+                        the basis of the relative performance in the Prelims
+                        round.<br>
+                        4. Marks of the prelims will not be carried forward to
+                        the next round.<br>
+                        Mains round<br>
+                        1. This is the round of actual web designing.<br>
+                        2. You have to Design a website on the provided
+                        problem. Problem will be revealed in the Mains
+                        round.<br>
+                        3. The above mentioned development tools and materials
+                        will be provided.<br>
+                        4. The participants will have to do a two minute oral
+                        presentation on submission of project to the
+                        judges.<br>
+                        Judging Criteria<br>
+                        1. Content.<br>
+                        2. Aesthetics.<br>
+                        3. Design.<br>
+                        4. Usability and accessibility.<br>
+                        5. Code conventions
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Co-ordinators<br>
+                        1. Sivadas T Nair<br>
+                        Asst Professor, CS<br>
+                        Mob: 9447349948<br>
+                        Student Co-Ordinators<br>
+                        1. Binto Varghese<br>
+                        Mob: 9495697545<br>
+                        2. Jayaraj R<br>
+                        Mob: 9947586140<br>
+                        3. Silpa Minni<br>
+                        4. Rubiya K Rahim<br>
+                        5. Sruthy P M<br>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    PAPER PRESENTATION (CSE &amp; IT Combined)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      PAPER PRESENTATION (CSE &amp; IT Combined)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "cs#collapsible-region-5"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-5">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. Participants are requested to mail the abstract
+                        along with their paper and contact details on or before
+                        20th September, 2015 to csit.bodhi2015@vjcet.org.<br>
+                        2. Confirmed list of papers selected for presentation
+                        will be announced on 21st September, 2015.<br>
+                        3. The candidates should send their name, phone number,
+                        email id, and the name of the college along with the
+                        paper.<br>
+                        4. Details regarding the registration fee are published
+                        in the main page.<br>
+                        5. Maximum participation of two members in a group is
+                        allowed.<br>
+                        6. The participants are requested to report at the
+                        registration desk 30minutes before the commencement of
+                        the event.<br>
+                        7. Participants should bring three hard copies of their
+                        paper with them.<br>
+                        9. The hard copies and presentation slides bought are
+                        to be submitted at the time of registration.<br>
+                        10. A session of 15min for presentation & another of
+                        5min for queries will be provided for each
+                        candidate.<br>
+                        11. Accessories like projector, laptop, etc. will be
+                        provided.<br>
+                        12. Decision of judges will be final.<br>
+                        13. Directions provided by the coordinators should be
+                        strictly adhered to.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>PG Seminar Hall (CSE)<br>
+                        <br>
+                        Date & Time<br>
+                        Date: 23rd Sept, 2015<br>
+                        Time: 11 AM to 4.00 PM
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Co-ordinators<br>
+                        1. Juliet A Murali, Asst. Professor ,IT<br>
+                        Student Co-ordinators<br>
+                        1. ANJANA KRISHNAN, S7IT<br>
+                        2. MARIYA JOLLY, S7IT<br>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+				<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+			</div>
+    </footer><!-- js -->
+    <script src=
+    "js/jquery.min.js"></script> <script src="js/base.min.js"></script> <!-- js for this project -->
+     <script src="js/project.min.js"></script>
+  </body>
+</html>

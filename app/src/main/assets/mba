@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+    <title>
+      Bodhi Events
+    </title><!-- css -->
+    <link href="css/base.min.css" rel="stylesheet">
+    <!-- css for this project -->
+    <link href="css/project.min.css" rel="stylesheet"><!-- favicon -->
+    <!-- ... -->
+    <!-- ie -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  </head>
+  <body class="avoid-fout page-brand">
+    <div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+      <div class="progress-circular progress-circular-center">
+        <div class="progress-circular-wrapper">
+          <div class="progress-circular-inner">
+            <div class="progress-circular-left">
+              <div class="progress-circular-spinner"></div>
+            </div>
+            <div class="progress-circular-gap"></div>
+            <div class="progress-circular-right">
+              <div class="progress-circular-spinner"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <header class="header header-transparent header-waterfall">
+      <ul class="nav nav-list pull-left">
+        <li>
+          <a href="index"><span class="fa fa-arrow-left fa-1x"></span></a>
+        </li>
+      </ul><a class="header-logo margin-left-no" href="index">Bodhi2k15</a>
+      <div class="header-affix pull-left" data-offset-top="108" data-spy=
+      "affix">
+        <span class="header-text margin-left-no"><i class=
+        "icon margin-right">chevron_right</i>MBA. Dept Events</span>
+      </div>
+    </header>
+   
+    <div class="content">
+      <div class="content-heading">
+        <div class="container">
+          <h1 class="heading">
+            MBA. Dept Events
+          </h1>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    Marketing Game
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      Marketing Game
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "mba#collapsible-region-1"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-1">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>• Event is conducted on Day 1<br>
+                        • The Registration starts from 9.30 am<br>
+                        • Group Event (Team of 5 Members)<br>
+                        • There will be a preliminary test<br>
+                        • Only materials provided are allowed.<br>
+                        • Decisions made by the Judges will be final.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>First prize - 5K<br>
+                        Second prize- 3K<br>
+                        Third prize - 1K
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    Best Manager
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      Best Manager
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "mba#collapsible-region-2"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-2">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>• Event is conducted on Day 1 (Final on Day 2)<br>
+                        • Individual participation event<br>
+                        • Candidate should register before 9.30am<br>
+                        • Participants are expected to come in formal
+                        attire<br>
+                        • The topic for the GD will announced at the time<br>
+                        • Improper behaviour of any means on the stage will
+                        lead to immediate disqualification<br>
+                        • The decision of the organizers and judges are final.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>First prize - 5K
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    Treasure Hunt
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      Treasure Hunt
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "mba#collapsible-region-3"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-3">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>• Event is conducted on Day 2<br>
+                        • Registration from 8:30 am to 9:30 am<br>
+                        • Group Event (Team of 4 Members)<br>
+                        • Collected clues should be kept till end<br>
+                        • No mobile phones are allowed during the event<br>
+                        • There will be eliminations through tasks during the
+                        game<br>
+                        • Only two persons are allowed for exam<br>
+                        • Defaulters will be disqualified<br>
+                        • No vehicles are permitted during the event<br>
+                        • Decisions made by the Judges/Organizers will be
+                        final.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>First prize - 7K<br>
+                        Second prize- 3K<br>
+                        Third prize - 1K
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    Business Quiz
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      Business Quiz
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "mba#collapsible-region-4"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-4">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>• Event is conducted on Day 2<br>
+                        • Only registered teams are eligible. (Registration
+                        from 9.00am)<br>
+                        • Replacement of any participants of a team is not
+                        allowed after registration.<br>
+                        • A team shall consist of two students<br>
+                        • Any number of teams can participate from the same
+                        college.<br>
+                        • Use of mobile or other electronic devices are not
+                        allowed.<br>
+                        • Only five teams will be allowed to compete after the
+                        Preliminary Round<br>
+                        • The team with the highest score in the final round
+                        will be selected as the winners.<br>
+                        • Quiz Master’s decision will be final.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>First prize - 5K<br>
+                        Second prize- 3K<br>
+                        Third prize - 1K
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+				<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+			</div>
+    </footer><!-- js -->
+    <script src=
+    "js/jquery.min.js"></script> <script src="js/base.min.js"></script> <!-- js for this project -->
+     <script src="js/project.min.js"></script>
+  </body>
+</html>

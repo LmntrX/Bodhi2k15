@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+    <title>
+      Bodhi Events
+    </title><!-- css -->
+    <link href="css/base.min.css" rel="stylesheet">
+    <!-- css for this project -->
+    <link href="css/project.min.css" rel="stylesheet"><!-- favicon -->
+    <!-- ... -->
+    <!-- ie -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  </head>
+  <body class="avoid-fout page-brand">
+    <div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+      <div class="progress-circular progress-circular-center">
+        <div class="progress-circular-wrapper">
+          <div class="progress-circular-inner">
+            <div class="progress-circular-left">
+              <div class="progress-circular-spinner"></div>
+            </div>
+            <div class="progress-circular-gap"></div>
+            <div class="progress-circular-right">
+              <div class="progress-circular-spinner"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <header class="header header-transparent header-waterfall">
+      <ul class="nav nav-list pull-left">
+        <li>
+          <a href="index"><span class="fa fa-arrow-left fa-1x"></span></a>
+        </li>
+      </ul><a class="header-logo margin-left-no" href="index">Bodhi2k15</a>
+      <div class="header-affix pull-left" data-offset-top="108" data-spy=
+      "affix">
+        <span class="header-text margin-left-no"><i class=
+        "icon margin-right">chevron_right</i>Mech. Dept Events</span>
+      </div>
+    </header>
+    
+    <div class="content">
+      <div class="content-heading">
+        <div class="container">
+          <h1 class="heading">
+            Mech. Dept Events
+          </h1>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    TECHNICAL PAPER PRESENTATION
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      TECHNICAL PAPER PRESENTATION
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "me#collapsible-region-1"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-1">
+                      <div>
+                        
+                        <p id="desc">
+                          “IT IS NOT ALL OVER. EVERYTHING HAS NOT BEEN
+                          INVENTED. THE WORLD IS JUST BEGINNING” – GENE
+                          RODDENBERRY<br>
+                          The planet is all yours and come up with a spark of
+                          innovation to improve the lives around you. The stage
+                          has been set to listen to your words. Hope you
+                          fulfill the expectation in the form of PAPER
+                          PRESENTATION.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. Interested candidates are advised to mail the
+                        complete paper in IEEE format by 18th September 2015 to
+                        me.bodhi2015@vjcet.org with in the subject field of the
+                        e-mail.<br>
+                        2. The front page should have title of paper on the top
+                        and the details of the candidate including Name,
+                        Semester, College, Contact number and email-ID at the
+                        bottom. The number of pages of the paper should be
+                        limited to a maximum of five excluding the front
+                        page.<br>
+                        3. The competition is open to all B. Tech students. The
+                        paper should be related to Mechanical Engineering.<br>
+                        4. The participants of shortlisted candidates will be
+                        informed by E-mail by 19th September 2015 and they
+                        would have to send reply on or before 21st September
+                        2015 confirming their participation.<br>
+                        5. All the candidates will get participation
+                        certificates.<br>
+                        6. The participants will have to present their papers
+                        in MS-Power Point format only.
+                        <p></p>
+                        <p></p>
+                        <p>
+                          View paper format <a href="paper-format.pdf" target=
+                          "_blank">Download</a>
+                        </p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>STUDENT CO-ORDINATORS<br>
+                        Santo Dominic (9496821046)<br>
+                        H. Krishnan (9645963286)<br>
+                        <br>
+                        STAFF CO-ORDINATORS<br>
+                        Jerry Varghese (8281685253)<br>
+                        Akhil K.T (9496285256)
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    ROBO MAZE
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      ROBO MAZE
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "me#collapsible-region-2"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-2">
+                      <div>
+                        
+                        <p id="desc">
+                          Trust ROBO; Trust yourself; Find the best way "One,
+                          who falls behind, is left behind." So pack your bags
+                          and pump your bots ‘cause it's get, set and GO!!!<br>
+                          TASK:<br>
+                          Design a robot either wired or wireless within the
+                          specified dimensions that can travel through all
+                          turns of the track. The robot that will complete the
+                          specified task taking minimum time (within the given
+                          time limit) will secure the 1st and 2nd positions
+                          resp. will be the winner.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>GENERAL RULES:<br>
+                        • This is racing event, so fastest and most balanced
+                        robot will win.<br>
+                        • Robot should be as per the given specifications.<br>
+                        • Each team can have maximum two members.<br>
+                        • Each member of the team must contain the identity
+                        card of his/her respected institute.<br>
+                        • The robot should not damage the arena.<br>
+                        • The competition is based on time trail system<br>
+                        • Your robot must be ready when call is made for your
+                        team.<br>
+                        • Machine must not contain any pneumatic & hydraulic
+                        systems, IC engines.<br>
+                        • Decision about your robot will be taken by the
+                        co-ordinators.<br>
+                        • No team will get a second chance after completing the
+                        track with poor score.<br>
+                        • Decision of judges will be final.<br>
+                        • Certificates of Participation will be given to all
+                        the teams that will participate in the event.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : 3000/-<br>
+                        SECOND PRIZE: 2000/-
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>ROBOT SPECIFICATIONS:<br>
+                        • The maximum dimension of the robot can be 30 x 30 x
+                        30 cm (l x b x h).<br>
+                        • The robot may be wired or wireless.<br>
+                        • The length of the wire (for wired bots) should be at
+                        least 4 meter<br>
+                        • Maximum of 12 Volt potential can be used.<br>
+                        • Readymade toy cars are not allowed.<br>
+                        TRACK SPECIFICATION:<br>
+                        • The track surface and course line may have
+                        unevenness.<br>
+                        • There might be abrupt angles.<br>
+                        • There will be certain obstacles in the race track
+                        which will try to slow down the robot.<br>
+                        • Checkpoints will be present at certain places on the
+                        track.<br>
+                        <br>
+                        DATE & TIME : 12.00 PM – 4.00 PM, 22/09/2015<br>
+                        VENUE : VOLLEY-BALL COURT
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    ANTHROPOMETRIST
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      ANTHROPOMETRIST
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "me#collapsible-region-3"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-3">
+                      <div>
+                        
+                        <p id="desc">
+                          "A group becomes a team when each member is sure
+                          enough of himself and his contribution to praise the
+                          skill of the others”. - NORMAN S HIDLE<br>
+                          To test the logical, statistical and analyzing basic
+                          engineering skills of a team. It provides a unique
+                          opportunity to encounter the engineering ideas to
+                          good effect.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>RULES<br>
+                        • This event will test the logical, analytical and
+                        basic engineering skills to solve a given task.<br>
+                        • A maximum of 3 members per team will be allowed.<br>
+                        • Prizes will be Rs.3000, Rs.2000 for 1st and 2nd
+                        respectively.<br>
+                        • Calculators, measuring aids etc. will not be
+                        allowed.<br>
+                        • Decision of judges will be final.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : 3000/-<br>
+                        SECOND PRIZE : 2000/-
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>DATE & TIME : 10.00 AM – 4.00 PM, 22/09/2015<br>
+                        VENUE : C-304, C-305
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    ASSEMBLY WAR
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      ASSEMBLY WAR
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "me#collapsible-region-4"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-4">
+                      <div>
+                        
+                        <p id="desc">
+                          “Manufacturing is more than just putting parts
+                          together. It's coming up with ideas, testing
+                          principles and perfecting the engineering, as well as
+                          final assembly"- JAMES DYSON<br>
+                          The parts of a machine will be given disassembled. It
+                          has to be assembled to make the required machine. The
+                          team with best time below the time limit will be
+                          awarded as winner.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>• This event will test the technical and practical
+                        skills of the contestants.<br>
+                        • Competition will have various rounds and contestants
+                        will be eliminated based on time.<br>
+                        • Prizes will be Rs.3000, Rs.2000 for 1st and 2nd
+                        respectively.<br>
+                        • A team of minimum 3 members, but not exceeding 5
+                        members are required.<br>
+                        • Tools will be provided. Tools from outside will not
+                        be permitted.<br>
+                        • Time limit will be informed before the start of the
+                        event<br>
+                        • The teams which complete the required assembly taking
+                        minimum time (within the given time limit) will secure
+                        the 1st and 2nd positions resp.<br>
+                        • Teams are required to register before the scheduled
+                        start of the event. No registrations will be allowed
+                        after the start of the event.<br>
+                        • Decision of judges will be final.
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>DATE & TIME: 10.00 AM – 03.00 PM, 23/09/2015<br>
+                        VENUE : ENTRANCE - MECHANICAL WORKSHOP
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+				<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+			</div>
+    </footer><!-- js -->
+    <script src=
+    "js/jquery.min.js"></script> <script src="js/base.min.js"></script> <!-- js for this project -->
+     <script src="js/project.min.js"></script>
+  </body>
+</html>

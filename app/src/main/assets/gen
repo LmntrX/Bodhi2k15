@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+		<title>
+			Bodhi Events
+		</title><!-- css -->
+		<link href="css/base.min.css" rel="stylesheet"><!-- css for this project -->
+		<link href="css/project.min.css" rel="stylesheet"><!-- favicon -->
+		<!-- ... -->
+		<!-- ie -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body class="avoid-fout page-brand">
+		<div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+			<div class="progress-circular progress-circular-center">
+				<div class="progress-circular-wrapper">
+					<div class="progress-circular-inner">
+						<div class="progress-circular-left">
+							<div class="progress-circular-spinner"></div>
+						</div>
+						<div class="progress-circular-gap"></div>
+						<div class="progress-circular-right">
+							<div class="progress-circular-spinner"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<header class="header header-transparent header-waterfall">
+			<ul class="nav nav-list pull-left">
+				<li>
+					<a href="index"><span class="fa fa-arrow-left fa-1x"></span></a>
+				</li>
+			</ul><a class="header-logo margin-left-no" href="index">Bodhi2k15</a>
+			<div class="header-affix pull-left" data-offset-top="108" data-spy="affix">
+				<span class="header-text margin-left-no"><i class=
+				"icon margin-right">chevron_right</i>General Events</span>
+			</div>
+		</header>
+		<div class="content">
+			<div class="content-heading">
+				<div class="container">
+					<h1 class="heading">
+						General Events
+					</h1>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										SPOT PHOTOGRAPHY (Chayachitra)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											SPOT PHOTOGRAPHY (Chayachitra)
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"gen#collapsible-region-1"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-1">
+											<div>
+												
+												<p id="desc">
+													Light makes photography. Embrace light. Admire
+													it. Love it. But above all, know light. Know it
+													for all you are worth, and you will know the
+													key to photography.<br>
+													Participants are given a topic at the start of
+													the event and the best among the awesome clicks
+													submitted will be handsomely rewarded.
+												</p>
+												<p></p>
+												<p id="rules">
+													Rules
+												</p>EVENT FORMAT<br>
+												• The Winners will be decided on the basis of the
+												average score given by the judges for each
+												photo.<br>
+												RULES<br>
+												• Any type of camera (Point & Shoot, Presumer’s,
+												and DSLR) except mobile phones can be used.<br>
+												• The maximum number of photograph submitted is
+												restricted to 3 for a candidate.<br>
+												• Entries of only registered candidates will be
+												accepted.<br>
+												• Theme will be provided at the starting of event.
+												(10:00 am, 22nd September)<br>
+												• The photos must be clicked inside the campus.<br>
+												• Editing will lead to disqualification.<br>
+												• Judges decision shall be final.
+												<p></p>
+												<p></p>
+												<p id="prize">
+													Prize
+												</p>PRIZE MONEY<br>
+												First Prize: Rs.2500<br>
+												Second Prize: Rs.1500
+												<p></p>
+												<p></p>
+												<p id="otherdetails">
+													Other Details
+												</p>VENUE<br>
+												• Room No: B-102<br>
+												TIMING<br>
+												• Registration : 8:45 am onwards (22nd
+												September)<br>
+												• Event: 11:00 am - 3:00 pm (22nd September)
+												<p></p>
+												<p></p>
+												<p id="coordinators">
+													Coordinators
+												</p>STAFF COORDINATORS<br>
+												• Eldhose Paul(ME) :- 9744167116<br>
+												• Krishnendu K (ECE)<br>
+												STUDENT COORDINATORS<br>
+												• Vishnu K S (S7 ECE) :- 7293308357<br>
+												• Basil Arackal (S3 CSE) :- 8891356128
+												<p></p>
+											</div>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										TREASURE HUNT
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											TREASURE HUNT
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"gen#collapsible-region-2"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-2">
+											<div>
+																							
+												<p id="rules">RULES</p>
+													•	Each team must contain a maximum of 3 members and a minimum of 2 members.<br />
+													•	Members of the team should not search for clues outside the college premises.<br />
+													•	Team members should not split under any circumstances.Also during the first round team members should listen to their guides.<br />
+													•	Team should not tamper other team's clue,If found guilty that team Decisions of the coordinators are final.<br />
+													•	Cheating and bribing to get clues are offensive.If found the team will be disqualified.<br />
+													•	Registration Fee is Rs.50/- per team.<br />
+													•	Registration of the event starts at 10:00 am on 22nd september.<br />
+													•	The event will start by 10:30 am. All the students are requested to complete registration by that time.<br />
+													•	The winners will be rewarded with cash prize.
+												<p></p>
+												<p></p>
+												<p id="prize">
+													Prize
+												</p>PRIZE MONEY<br>
+												First Prize: Rs.5000<br>
+												Second Prize: Rs.3000
+												<p></p>
+												<p></p>												
+												<p id="coordinators">Coordinators</p>Student Coordinator: Pranav Joy <br />
+                        Phone:   +919947370374</p>
+											</div>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="card">
+							<div class="card-main">
+								<div class="card-img">
+									<img alt="alt text" src="images/samples/landscape.jpg">
+									<p class="card-img-heading">
+										PHOTOGRAPHY EXHIBITION (Veethika)
+									</p>
+								</div>
+								<div class="card-inner">
+									<section class="content-inner">
+										<h2 class="content-sub-heading">
+											Veethika
+										</h2>
+										<p>
+											<a class="btn collapsed waves-attach waves-button"
+											data-toggle="collapse" href=
+											"gen#collapsible-region-3"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+										</p>
+										<div class="collapsible-region collapse" id=
+										"collapsible-region-3">
+											<strong></strong>
+											<p id="desc">
+										      Photography is a way of feeling, of touching, of loving. What you have caught on film is captured forever… It remembers little things, long after you have forgotten everything.. One doesn’t stop seeing. One doesn’t stop framing. It doesn’t turn off and turn on. It’s on all the time.
+										      <br>
+										      In Association with Bodhi 2k15 the Photography/Eco Club of VJCET have organised a photography exhibition where students can showcase the photographer inside them.Intersted Students can submit their entries on or before 20th September .Entries are to be mailed to photoecovjcet@gmail.com
+										    </p>
+										    <p></p>
+										    <p id="rules">
+										      Rules
+										    </p>EVENT FORMAT<br>
+										    • This is not a competition..Just an exhibition.<br>
+										    RULES<br>
+											1.Photographs taken on any camera devices are permitted<br>
+											2.A student can submit as many entries as he want<br>
+											3.No registration..No other expense<br>
+											4.Photographs of any theme can be submitted (Eg:Campus life,Nature,Street photography etc.)<br>
+											5.Students are requested to attach their Name,Branch & Phn no. along with the mail<br>										    										   
+										    <p></p>
+										    <p id="otherdetails">
+										      Other Details
+										    </p>VENUE<br>
+										    • Room No: B-102<br>										    
+										    <p></p>
+										    <p id="coordinators">
+										      Coordinators
+										    </p>STAFF COORDINATORS<br>
+										    • Eldhose Paul(ME) :- 9744167116<br>
+										    • Krishnendu K (ECE)<br>
+										    STUDENT COORDINATORS<br>
+										    • Vishnu K S (S7 ECE) :- 7293308357<br>
+										    • Basil Arackal (S3 CSE) :- 8891356128
+										    <p></p>
+										</div>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer class="footer">
+			<div class="container">
+				<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+			</div>
+		</footer><!-- js -->
+		<script src="js/jquery.min.js"></script> <script src="js/base.min.js"></script> <!-- js for this project -->
+		 <script src="js/project.min.js"></script>
+	</body>
+</html>

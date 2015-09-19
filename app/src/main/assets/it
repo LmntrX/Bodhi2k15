@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam">
+    <meta name="keywords" content="Bodhi techfest,bodhi2k15,Viswajyothi tech fest,Viswajyothi College,National Level Tech Fest,bodhiofficial.in ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Amal Murali , Tom George">
+    <meta property="og:url"                content="http://bodhiofficial.in" />
+    <meta property="og:title"              content="Bodhi 2K15 | Viswajyothi College of Engineering And Technology" />
+    <meta property="og:description"        content="Bodhi is the annual Technical and cultural fest organised by Viswajyothi College of Engg. and Technology Vazhakulam" />
+    <meta property="og:image"              content="https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xta1/t31.0-8/12000797_918838144855318_4253270187341271202_o.jpg" />
+    <title>
+      Bodhi Events
+    </title><!-- css -->
+    <link href="css/base.min.css" rel="stylesheet">
+    <!-- css for this project -->
+    <link href="css/project.min.css" rel="stylesheet"><!-- favicon -->
+    <!-- ... -->
+    <!-- ie -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  </head>
+  <body class="avoid-fout page-brand">
+    <div class="avoid-fout-indicator avoid-fout-indicator-fixed">
+      <div class="progress-circular progress-circular-center">
+        <div class="progress-circular-wrapper">
+          <div class="progress-circular-inner">
+            <div class="progress-circular-left">
+              <div class="progress-circular-spinner"></div>
+            </div>
+            <div class="progress-circular-gap"></div>
+            <div class="progress-circular-right">
+              <div class="progress-circular-spinner"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <header class="header header-transparent header-waterfall">
+      <ul class="nav nav-list pull-left">
+        <li>
+          <a href="index"><span class="fa fa-arrow-left fa-1x"></span></a>
+        </li>
+      </ul><a class="header-logo margin-left-no" href="index">Bodhi2k15</a>
+      <div class="header-affix pull-left" data-offset-top="108" data-spy=
+      "affix">
+        <span class="header-text margin-left-no"><i class=
+        "icon margin-right">chevron_right</i>IT. Dept Events</span>
+      </div>
+    </header>
+   
+    <div class="content">
+      <div class="content-heading">
+        <div class="container">
+          <h1 class="heading">
+            IT. Dept Events
+          </h1>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    FACT AND FURIOUS (Technical Quiz)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      FACT AND FURIOUS (Technical Quiz)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "it#collapsible-region-1"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-1">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. The questions will be based on IT field.<br>
+                        2. A team shall consist of max two students.<br>
+                        3. The decision of the quiz-master will be final and
+                        will not be subjected to any change.<br>
+                        4. Participants shall not be allowed to use mobile or
+                        other electronic instruments.<br>
+                        5. Questions shall be in the form of multiple choice,
+                        True / False statement, Visuals, Specific-answer
+                        question etc.<br>
+                        6. Audience shall not give any hints or clues to the
+                        competitors.<br>
+                        7. The participants are requested to report at the
+                        registration desk 30 minutes before the commencement of
+                        the event.<br>
+                        <br>
+                        Elimination Round<br>
+                        1. Each team would be given a set of question paper
+                        containing 20 multiple choice objective type
+                        questions.<br>
+                        2. Time limit - 20 minutes.<br>
+                        3. Only 5 Teams would be selected for final stage
+                        rounds.<br>
+                        4. In case of tie between 2 or more teams, further 5
+                        questions would be asked for final selection.<br>
+                        5. The selected teams shall have to appear for the
+                        final round.<br>
+                        <br>
+                        Final Quiz � Stage Rounds<br>
+                        Round 1: A question will be asked to a team and if they
+                        are unable to answer, it will not be passed to the next
+                        team.<br>
+                        1. Each team would be asked 2 questions each.(Objective
+                        type or specific answer questions)<br>
+                        2. 10 marks for each correct answer.<br>
+                        3. Answering time is only 20 seconds.<br>
+                        <br>
+                        Round 2: A question will be asked to a team and if they
+                        are unable to answer, it will be passed to the next
+                        team.<br>
+                        <br>
+                        1. Each team would be asked 2 questions each.(Objective
+                        type or specific answer<br>
+                        questions)<br>
+                        2. 10 marks for each correct answer.<br>
+                        3. If a team cannot answer the question, they can pass
+                        the question & then the question would be forwarded to
+                        the next team.<br>
+                        4. 5 marks will be given to passing questions.<br>
+                        5. Answering time is only 20 seconds.<br>
+                        6. Team discussion is allowed.<br>
+                        <br>
+                        Round 3: Buzzer Round- 6 Questions<br>
+                        A question will be fired & the team who responds first
+                        gets the chance to answer first.<br>
+                        <br>
+                        1. 10 marks for the correct answer and negative 5 marks
+                        for the wrong or if a team doesn�t answer after
+                        responding.<br>
+                        2. Unanswered questions will not be forwarded.<br>
+                        3. Answering time is only 05 seconds.<br>
+                        <br>
+                        Round 4 :Visual round<br>
+                        Teams will be shown clips and will have to answer.<br>
+                        1. 10 marks for each correct answer.<br>
+                        2. Each Team would be asked 2 visual questions. ( 1
+                        slide in each round )<br>
+                        3. Visuals include hardware images, logos of Computer
+                        related product manufacturing companies etc.,<br>
+                        4. Answering time is only 20 seconds.<br>
+                        5. No passing to the next team.<br>
+                        <br>
+                        Round 5: Rapid Fire Round: -Each team will be asked 6
+                        questions in one minute.<br>
+                        1. 10 marks for the correct answer.<br>
+                        2. Team discussion is allowed<br>
+                        3. If a team cannot answer the question, they can say
+                        pass for the next question. The question will not be
+                        forwarded to the next team.<br>
+                        6. Answering time is only 10 seconds for each
+                        question.<br>
+                        7. No passing to the next team.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>Main Auditorium<br>
+                        Date & Time<br>
+                        Date: 23rd Sept, 2015<br>
+                        Time: 11 AM to 4.00 PM
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Co-ordinators<br>
+                        1. Jesline Joseph, Asst. Professor, IT<br>
+                        Student Co-ordinators<br>
+                        1. JITHU SHAJU, S7IT<br>
+                        Mob: 9633751890<br>
+                        2. ELZA JOSE, S7IT<br>
+                        3. DYNA GEORGE, S7IT<br>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    RACKUP (System Assembly)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      RACKUP (System Assembly)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "it#collapsible-region-2"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-2">
+                      <div>
+                        
+                        <p id="desc">
+                          You do not need any tool and shouldn�t be a genius to
+                          participate in this event, but we aim atanalyzing the
+                          ability of the participants to assemble the various
+                          components present in a computer machine as fast as
+                          possible with no mistakes.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. Individual participations only.<br>
+                        2. Certificates are given to participants and
+                        winners.<br>
+                        3. Laptops ,books or any kind of informatory medias are
+                        not allowed in the event hall.<br>
+                        4. Organization committee has right to disqualify a
+                        participant in case of any malpractices.<br>
+                        5. Decision of Judges are final.<br>
+                        6. Preliminary round will be a cross-word puzzle test
+                        and top 5 scorers will be selected for the System
+                        Assembly.<br>
+                        7. Time will be given for finalist to familiarize
+                        components like motherboard, SMPS, fan, ram etc.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>Programming Lab<br>
+                        Date & Time<br>
+                        Date: 22nd Sept, 2015<br>
+                        Time: 11.30 AM to 4.00 PM
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Coordinator<br>
+                        1. Santhanu P Mohan, Asst. Professor, IT<br>
+                        Mob: 9895485975<br>
+                        Student Coordinators<br>
+                        1. Digin Dominic (S7 IT)<br>
+                        Mob: 8592027779<br>
+                        2. Tony Siby (S7 IT)<br>
+                        Mob: 9745966227
+                        <p></p>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    Blind Coding
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      Blind Coding
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "it#collapsible-region-3"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-3">
+                      <div>
+                        
+                        <p id="desc">
+                          "C Programming Competition with screen switched
+                          off�<br>
+                          Blind coding is a C programming competition held
+                          under Information Technology department where
+                          competitors need to do the program by switching the
+                          monitors off.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. Individual participation.<br>
+                        2. No specific branch restriction.<br>
+                        3. Participants should report half an hour before the
+                        event.<br>
+                        4. Pen, Paper, any kind of electronic equipments etc.
+                        are not allowed.<br>
+                        5. Online objective test will be held for elimination
+                        round, if the number of participants exceeds. This test
+                        will be of multiple choice questions from C programming
+                        language.<br>
+                        6. Only problem statement will be provided.
+                        Participants write the code in Turbo-C with monitors
+                        switched off within 15 minutes.<br>
+                        7. Organizing committee has a right to disqualify a
+                        participant in case of any indiscipline.<br>
+                        8. Decision of judges shall be final and it will be
+                        binding to all.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>DBMS LAB<br>
+                        Date & Time<br>
+                        Date: Sept 23rd, 2015<br>
+                        Time: 1.30pm to 4.00 pm
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Co-ordinator<br>
+                        1. Mr.Prince Kurian Asst Professor, IT<br>
+                        Mob: 9846952048<br>
+                        Student Co-ordinators<br>
+                        1. Noufal V S (S7 IT)<br>
+                        Mob: 9447476651<br>
+                        2. Chinju George (S7 IT)<br>
+                        3. Kavya Clare P Shaji (S7 IT)<br>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    WEB SEARCH (Web Crawler)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      WEB SEARCH (Web Crawler)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "it#collapsible-region-4"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-4">
+                      <div>
+                        
+                        <p id="desc">
+                          Google is as great it is, but as the web gets bigger
+                          even Google sometimes deliver poorer results for
+                          basic search terms. Everyone uses Google, but most
+                          people search by entering a sentence or terms they
+                          are looking for without using any of the Google�s
+                          amazing built-in features. Web Crawler is to hunt the
+                          web pages and find solutions for a given set of
+                          questions.
+                        </p>
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. Maximum time: 30 minutes.<br>
+                        2. Individual event<br>
+                        3. Preliminary Round(15 minutes)<br>
+                        The event will follow �choose the correct answer from
+                        options� method.<br>
+                        There shall be no negative marking in either the
+                        prelims or the finals.<br>
+                        4. Final Round(15 minutes)<br>
+                        The event will follow �Find the correct Answer along
+                        with the link� method.<br>
+                        5. Directions provided by the coordinators should be
+                        strictly adhered to.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>DBMS lab<br>
+                        Date & Time<br>
+                        Date: 22nd Sept,2015<br>
+                        Time: 1.30pm to 4.00 pm
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Coordinator<br>
+                        1. Nimmy George, Asst. Professor, IT<br>
+                        Mob: 9744302845<br>
+                        Student Coordinators<br>
+                        1.Johny K Jose, S7 IT<br>
+                        Mob: 9946334477<br>
+                        2.Jemcy George, S7 IT<br>
+                        3.Shemeema Navas, S7 IT<br>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card">
+              <div class="card-main">
+                <div class="card-img">
+                  <img alt="alt text" src="images/samples/landscape.jpg">
+                  <p class="card-img-heading">
+                    PAPER PRESENTATION (CSE &AMP; IT Combined)
+                  </p>
+                </div>
+                <div class="card-inner">
+                  <section class="content-inner">
+                    <h2 class="content-sub-heading">
+                      PAPER PRESENTATION (CSE &AMP; IT Combined)
+                    </h2>
+                    <p>
+                      <a class="btn collapsed waves-attach waves-button"
+                      data-toggle="collapse" href=
+                      "it#collapsible-region-5"><span class=
+											"collapsed-hide"><i class="fa fa-eye-slash"></i> hide</span><span class=
+											"collapsed-show"><i class="fa fa-eye"></i> view</span></a>
+                    </p>
+                    <div class="collapsible-region collapse" id=
+                    "collapsible-region-5">
+                      <div>
+                        
+                        <p></p>
+                        <p id="rules">
+                          Rules
+                        </p>1. Participants are requested to mail the abstract
+                        along with their paper and contact details on or before
+                        20th September, 2015 to csit.bodhi2015@vjcet.org.<br>
+                        2. Confirmed list of papers selected for presentation
+                        will be announced on 21st September, 2015.<br>
+                        3. The candidates should send their name, phone number,
+                        email id, and the name of the college along with the
+                        paper.<br>
+                        4. Details regarding the registration fee are published
+                        in the main page.<br>
+                        5. Maximum participation of two members in a group is
+                        allowed.<br>
+                        6. The participants are requested to report at the
+                        registration desk 30minutes before the commencement of
+                        the event.<br>
+                        7. Participants should bring three hard copies of their
+                        paper with them.<br>
+                        9. The hard copies and presentation slides bought are
+                        to be submitted at the time of registration.<br>
+                        10. A session of 15min for presentation & another of
+                        5min for queries will be provided for each
+                        candidate.<br>
+                        11. Accessories like projector, laptop, etc. will be
+                        provided.<br>
+                        12. Decision of judges will be final.<br>
+                        13. Directions provided by the coordinators should be
+                        strictly adhered to.
+                        <p></p>
+                        <p></p>
+                        <p id="prize">
+                          Prize
+                        </p>FIRST PRIZE : Rs. 5000<br>
+                        SECOND PRIZE : Rs. 3000<br>
+                        THIRD PRIZE : Rs. 1000
+                        <p></p>
+                        <p></p>
+                        <p id="otherdetails">
+                          Other Details
+                        </p>PG Seminar Hall (CSE)<br>
+                        <br>
+                        Date & Time<br>
+                        Date: 23rd Sept, 2015<br>
+                        Time: 11 AM to 4.00 PM
+                        <p></p>
+                        <p></p>
+                        <p id="coordinators">
+                          Coordinators
+                        </p>Staff Co-ordinators<br>
+                        1. Juliet A Murali, Asst. Professor ,IT<br>
+                        Student Co-ordinators<br>
+                        1. ANJANA KRISHNAN, S7IT<br>
+                        2. MARIYA JOLLY, S7IT<br>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+				<p>Bodhi 2015 | Powered by <a href='http://www.lmntrx.com'>LmntrX</a></p>
+			</div>
+    </footer><!-- js -->
+    <script src=
+    "js/jquery.min.js"></script> <script src="js/base.min.js"></script> <!-- js for this project -->
+     <script src="js/project.min.js"></script>
+  </body>
+</html>
