@@ -31,6 +31,7 @@ public class NetworkStatusCheck extends AsyncTask<Void, Void, Boolean> {
                 urlc.setConnectTimeout(800);
                 urlc.connect();
                 result = (urlc.getResponseCode() == 200);
+                Log.d("Response Code",urlc.getResponseCode()+"");
             } catch (IOException e) {
                 Log.e("No Connection", "Error checking internet connection", e);
                 result=false;

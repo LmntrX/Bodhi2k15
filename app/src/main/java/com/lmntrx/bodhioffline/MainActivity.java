@@ -17,11 +17,11 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
 
     //WebView
-    private WebView mWebview ;
+    private WebView mWebview;
 
     //Site Url
-    String fileURL="file:///android_asset/index";
-    String mURL="http://bodhiofficial.in/";
+    String fileURL = "file:///android_asset/index";
+    String mURL = "http://bodhiofficial.in/";
 
     //Context Variable
     public static Context CON;
@@ -33,30 +33,31 @@ public class MainActivity extends Activity {
 
     boolean doneSplash;
 
+    boolean doneLoading;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        if(savedInstanceState==null){
-            Intent intent=new Intent(this,splashscreen.class);
+        if (savedInstanceState == null) {
+            Intent intent = new Intent(this, splashscreen.class);
             startActivity(intent);
-            doneSplash=true;
+            doneSplash = true;
         }
 
         mVibrator = (Vibrator) getSystemService(VIBRATOR_SERVICE);
 
-        mWebview  = new WebView(this);
+        mWebview = new WebView(this);
 
-        CON=this;
+        CON = this;
 
         //Executing Async task
-        Thread thread=new Thread(new Runnable() {
+        Thread thread = new Thread(new Runnable() {
             @Override
             public void run() {
                 try {
-                    isConnected=new NetworkStatusCheck().execute().get();
+                    isConnected = new NetworkStatusCheck().execute().get();
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
@@ -67,7 +68,7 @@ public class MainActivity extends Activity {
         WebSettings webSettings = mWebview.getSettings();
         webSettings.setJavaScriptEnabled(true);
         webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
-        if(android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.JELLY_BEAN) {
+        if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.JELLY_BEAN) {
             webSettings.setAllowFileAccessFromFileURLs(true);
             webSettings.setAllowUniversalAccessFromFileURLs(true);
         }
@@ -79,19 +80,19 @@ public class MainActivity extends Activity {
                 Toast.makeText(activity, description, Toast.LENGTH_SHORT).show();
             }
         });
-
-        if (isConnected){
-            mWebview.loadUrl(mURL);
-            //Toast.makeText(CON,"App Powered By LmntrX\n    App in Online Mode",Toast.LENGTH_LONG).show();
-        }
-        else{
-            mWebview.loadUrl(fileURL);
-            Toast.makeText(CON,"  App in Offline Mode\nContent maybe outdated", Toast.LENGTH_LONG).show();
-            mVibrator.vibrate(200);
-        }
+        if (!doneLoading)
+            if (isConnected) {
+                mWebview.loadUrl(mURL);
+                //Toast.makeText(CON,"App Powered By LmntrX\n    App in Online Mode",Toast.LENGTH_LONG).show();
+            } else {
+                mWebview.loadUrl(fileURL);
+                if (savedInstanceState == null) {
+                    Toast.makeText(CON, "  App in Offline Mode\nContent maybe outdated", Toast.LENGTH_LONG).show();
+                    mVibrator.vibrate(200);
+                }
+            }
 
         setContentView(mWebview);
-
 
 
     }
