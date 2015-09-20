@@ -4,6 +4,8 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.HandlerThread;
+import android.os.Vibrator;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.webkit.WebSettings;
@@ -27,13 +29,23 @@ public class MainActivity extends Activity {
     boolean isConnected;
 
 
+    Vibrator mVibrator;
+
+    boolean doneSplash;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        Intent intent=new Intent(this,splashscreen.class);
-        startActivity(intent);
+        if(savedInstanceState==null){
+            Intent intent=new Intent(this,splashscreen.class);
+            startActivity(intent);
+            doneSplash=true;
+        }
+
+        mVibrator = (Vibrator) getSystemService(VIBRATOR_SERVICE);
 
         mWebview  = new WebView(this);
 
@@ -74,7 +86,8 @@ public class MainActivity extends Activity {
         }
         else{
             mWebview.loadUrl(fileURL);
-            //Toast.makeText(CON,"App Powered By LmntrX\n    App in Offline Mode",Toast.LENGTH_LONG).show();
+            Toast.makeText(CON,"  App in Offline Mode\nContent maybe outdated", Toast.LENGTH_LONG).show();
+            mVibrator.vibrate(200);
         }
 
         setContentView(mWebview);
