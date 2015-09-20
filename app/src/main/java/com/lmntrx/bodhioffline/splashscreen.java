@@ -21,7 +21,6 @@ import java.util.TimerTask;
 public class splashscreen extends Activity {
 
     private RelativeLayout splashLayout;
-    ProgressBar mProgressBar;
     Context Con;
     Activity splash;
     @Override
@@ -31,19 +30,8 @@ public class splashscreen extends Activity {
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         Con=this;
         splash=this;
-        mProgressBar=(ProgressBar)findViewById(R.id.progressBar);
-        mProgressBar.setVisibility(View.VISIBLE);
 
         splashLayout=(RelativeLayout)findViewById(R.id.splash);
-
-        //startCounting();
-
-        /*splashLayout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View arg0) {
-                splash.finish();
-            }
-        });*/
 
         final Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
