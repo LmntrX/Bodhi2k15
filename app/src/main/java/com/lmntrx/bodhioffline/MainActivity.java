@@ -63,12 +63,13 @@ public class MainActivity extends Activity {
             public void onShake() {
                 if(!isConnected){
                     if (isNetworkAvailable(CON)){
+                        mVibrator.vibrate(200);
                         Toast.makeText(CON, "Refreshing", Toast.LENGTH_SHORT).show();
                         activity.recreate();
                     }else {
-                        Toast.makeText(CON, "Connect to a network and shake to jump to online mode", Toast.LENGTH_SHORT).show();
+                        mVibrator.vibrate(200);
+                        Toast.makeText(CON, "Connect to a network and shake to go online", Toast.LENGTH_SHORT).show();
                     }
-                    mVibrator.vibrate(200);
                 }else {
                     Toast.makeText(CON, "You are in online mode already", Toast.LENGTH_SHORT).show();
                     mVibrator.vibrate(200);
