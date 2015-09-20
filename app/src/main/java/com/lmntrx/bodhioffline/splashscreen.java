@@ -31,6 +31,8 @@ public class splashscreen extends Activity {
         Con=this;
         splash=this;
 
+        // declare this before onCreate:     private RelativeLayout splashLayout;
+
         splashLayout=(RelativeLayout)findViewById(R.id.splash);
 
         final Handler handler = new Handler();
