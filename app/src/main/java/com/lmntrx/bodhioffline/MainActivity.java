@@ -3,6 +3,9 @@ package com.lmntrx.bodhioffline;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.hardware.Sensor;
+import android.hardware.SensorManager;
+import android.net.ConnectivityManager;
 import android.os.Bundle;
 import android.os.HandlerThread;
 import android.os.Vibrator;
@@ -23,6 +26,10 @@ public class MainActivity extends Activity {
     String fileURL = "file:///android_asset/index";
     String mURL = "http://bodhiofficial.in/";
 
+    private SensorManager mSensorManager;
+
+    private ShakeEventListener mSensorListener;
+
     //Context Variable
     public static Context CON;
 
@@ -35,6 +42,8 @@ public class MainActivity extends Activity {
 
     boolean doneLoading;
 
+    final Activity activity = this;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +54,27 @@ public class MainActivity extends Activity {
             startActivity(intent);
             doneSplash = true;
         }
+
+        mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
+        mSensorListener = new ShakeEventListener();
+
+        mSensorListener.setOnShakeListener(new ShakeEventListener.OnShakeListener() {
+
+            public void onShake() {
+                if(!isConnected){
+                    if (isNetworkAvailable(CON)){
+                        Toast.makeText(CON, "Refreshing", Toast.LENGTH_SHORT).show();
+                        activity.recreate();
+                    }else {
+                        Toast.makeText(CON, "Connect to a network and shake to jump to online mode", Toast.LENGTH_SHORT).show();
+                    }
+                    mVibrator.vibrate(200);
+                }else {
+                    Toast.makeText(CON, "You are in online mode already", Toast.LENGTH_SHORT).show();
+                    mVibrator.vibrate(200);
+                }
+            }
+        });
 
         mVibrator = (Vibrator) getSystemService(VIBRATOR_SERVICE);
 
@@ -73,8 +103,6 @@ public class MainActivity extends Activity {
             webSettings.setAllowUniversalAccessFromFileURLs(true);
         }
 
-        final Activity activity = this;
-
         mWebview.setWebViewClient(new WebViewClient() {
             public void onReceivedError(WebView view, int errorCode, String description, String failingUrl) {
                 Toast.makeText(activity, description, Toast.LENGTH_SHORT).show();
@@ -95,5 +123,24 @@ public class MainActivity extends Activity {
         setContentView(mWebview);
 
 
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        mSensorManager.registerListener(mSensorListener,
+                mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
+                SensorManager.SENSOR_DELAY_UI);
+    }
+
+    @Override
+    protected void onPause() {
+        mSensorManager.unregisterListener(mSensorListener);
+        super.onPause();
+    }
+
+    public boolean isNetworkAvailable(final Context context) {
+        final ConnectivityManager connectivityManager = ((ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE));
+        return connectivityManager.getActiveNetworkInfo() != null && connectivityManager.getActiveNetworkInfo().isConnected();
     }
 }
