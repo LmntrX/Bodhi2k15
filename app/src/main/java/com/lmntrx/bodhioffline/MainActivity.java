@@ -16,6 +16,12 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
 
+import com.parse.Parse;
+import com.parse.ParseAnalytics;
+import com.parse.ParseCrashReporting;
+
+import java.text.ParseException;
+
 
 public class MainActivity extends Activity {
 
@@ -38,22 +44,33 @@ public class MainActivity extends Activity {
 
     Vibrator mVibrator;
 
-    boolean doneSplash;
-
-    boolean doneLoading;
-
     final Activity activity = this;
+
+    boolean isInitialized;
+
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        CON = this;
 
+
+        if(!isInitialized) {
+            try {
+                Parse.initialize(this, "ofmbO4plk6IVxuJMpDMc39ge1ROI9x0x9JjvsaRk", "3fte83olSs5lRSi026aVEUiXSje2EIjlri5ffDY3");
+                isInitialized=true;
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+        }
         if (savedInstanceState == null) {
             Intent intent = new Intent(this, splashscreen.class);
             startActivity(intent);
-            doneSplash = true;
         }
+
+
+        ParseAnalytics.trackAppOpenedInBackground(getIntent());
 
         mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
         mSensorListener = new ShakeEventListener();
@@ -81,7 +98,7 @@ public class MainActivity extends Activity {
 
         mWebview = new WebView(this);
 
-        CON = this;
+
 
         //Executing Async task
         Thread thread = new Thread(new Runnable() {
@@ -109,7 +126,6 @@ public class MainActivity extends Activity {
                 Toast.makeText(activity, description, Toast.LENGTH_SHORT).show();
             }
         });
-        if (!doneLoading)
             if (isConnected) {
                 mWebview.loadUrl(mURL);
                 //Toast.makeText(CON,"App Powered By LmntrX\n    App in Online Mode",Toast.LENGTH_LONG).show();
