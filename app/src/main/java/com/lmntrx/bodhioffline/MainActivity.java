@@ -7,20 +7,13 @@ import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.net.ConnectivityManager;
 import android.os.Bundle;
-import android.os.HandlerThread;
 import android.os.Vibrator;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
-
 import com.parse.Parse;
 import com.parse.ParseAnalytics;
-import com.parse.ParseCrashReporting;
-
-import java.text.ParseException;
 
 
 public class MainActivity extends Activity {
@@ -148,6 +141,8 @@ public class MainActivity extends Activity {
         mSensorManager.registerListener(mSensorListener,
                 mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
                 SensorManager.SENSOR_DELAY_UI);
+
+
     }
 
     @Override
